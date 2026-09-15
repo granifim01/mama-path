@@ -12,10 +12,41 @@ export type ChapterQuiz = {
   questions: QuizQuestion[];
 };
 
+export type SectionKind =
+  | "text"
+  | "checklist"
+  | "tip"
+  | "myth"
+  | "callout"
+  | "steps"
+  | "media";
+
+export type SectionAccent = "info" | "warn" | "success" | "myth";
+
 export type ChapterSection = {
   heading: LocalizedString;
   body: LocalizedString;
+  kind?: SectionKind;
+  accent?: SectionAccent;
+  interactive?: boolean;
+  items?: LocalizedString[];
+  myth?: LocalizedString;
+  fact?: LocalizedString;
+  media?: {
+    type: "gif" | "image" | "illustration";
+    src: string;
+    alt: LocalizedString;
+    caption?: LocalizedString;
+  };
 };
+
+export type ChapterIllustration =
+  | "heartbeat"
+  | "seed"
+  | "bloom"
+  | "bag"
+  | "route"
+  | "moon";
 
 export type Chapter = {
   id: string;
@@ -28,6 +59,8 @@ export type Chapter = {
   summary: LocalizedString;
   sections: ChapterSection[];
   quiz: ChapterQuiz;
+  illustration?: ChapterIllustration | string;
+  reading_steps?: number;
 };
 
 export type Track = {
@@ -48,6 +81,14 @@ export type ChapterProgress = {
   quizPassed: boolean;
   score: number;
   completedAt?: string;
+  /** 0–100 reading progress inside the chapter */
+  readPercent?: number;
+  /** checklist item indexes marked done */
+  checklist?: Record<string, boolean>;
+  /** sections revealed / read */
+  sectionsRead?: string[];
+  startedAt?: string;
+  lastVisitedAt?: string;
 };
 
 export type TrackProgress = {
@@ -55,6 +96,6 @@ export type TrackProgress = {
 };
 
 export type AppProgress = {
-  version: 1;
+  version: 2;
   tracks: Record<string, TrackProgress>;
 };
