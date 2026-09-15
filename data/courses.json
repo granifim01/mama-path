@@ -1,0 +1,3706 @@
+{
+  "updated_at": "2026-06-10T15:33:10.436Z",
+  "tracks": [
+    {
+      "id": "mother",
+      "title": {
+        "ru": "Курс для мамы",
+        "kk": "Анаға арналған курс",
+        "en": "Course for mothers"
+      },
+      "subtitle": {
+        "ru": "От планирования до первых месяцев с малышом",
+        "kk": "Жоспарлаудан бастап сәбидің алғашқы айларына дейін",
+        "en": "From planning to the first months with your baby"
+      },
+      "color": "#d65d8d",
+      "chapters": [
+        {
+          "id": "m-01",
+          "order": 1,
+          "phase": "planning",
+          "phase_label": {
+            "ru": "Планирование",
+            "kk": "Жоспарлау",
+            "en": "Planning"
+          },
+          "title": {
+            "ru": "Подготовка к зачатию",
+            "kk": "Ұрықтануға дайындық",
+            "en": "Preparing for conception"
+          },
+          "duration_min": 10,
+          "is_premium": false,
+          "summary": {
+            "ru": "Фолиевая кислота, визит к врачу и образ жизни до беременности.",
+            "kk": "Фолий қышқылы, дәрігерге қаралу және жүктілікке дейінгі өмір салты.",
+            "en": "Folic acid, a doctor visit, and healthy habits before pregnancy."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "С чего начать",
+                "kk": "Неден бастау керек",
+                "en": "Where to start"
+              },
+              "body": {
+                "ru": "За 3 месяца до планируемой беременности пройдите осмотр у терапевта и гинеколога, сдайте анализы по назначению врача и начните приём фолиевой кислоты (обычно 400 мкг/сут — дозу уточняет врач).",
+                "kk": "Жоспарланған жүктілікке 3 ай қалғанда терапевт пен гинекологқа қаралып, дәрігер тағайындаған талдауларды тапсырыңыз және фолий қышқылын қабылдауды бастаңыз (әдетте тәулігіне 400 мкг, нақты дозаны дәрігер анықтайды).",
+                "en": "About 3 months before planned pregnancy, see a therapist and gynecologist, complete doctor-ordered tests, and start folic acid (usually 400 mcg/day, with dose confirmed by your doctor)."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Образ жизни",
+                "kk": "Өмір салты",
+                "en": "Lifestyle"
+              },
+              "body": {
+                "ru": "Откажитесь от курения и алкоголя, наладьте сон, добавьте умеренную физическую активность. Это снижает риски для будущей беременности.",
+                "kk": "Темекі мен алкогольден бас тартып, ұйқы режимін реттеңіз және қалыпты дене белсенділігін қосыңыз. Бұл болашақ жүктілік қаупін азайтады.",
+                "en": "Stop smoking and alcohol, normalize sleep, and add moderate physical activity. This lowers risks for a future pregnancy."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Запишите вопросы врачу заранее. Возьмите результаты прошлых анализов. Обсудите с партнёром ожидания от родов и первых месяцев.",
+                "kk": "Сұрақтарды алдын ала жазып алыңыз. Ескі талдау нәтижелерін алыңыз. Босану мен алғашқы айлар туралы серіктесіңізбен сөйлесіңіз.",
+                "en": "Write questions for your doctor in advance. Bring previous test results. Discuss birth and early months with your partner."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Фолиевая кислота, визит к врачу и образ жизни до беременности. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Фолий қышқылы, дәрігерге қаралу және жүктілікке дейінгі өмір салты. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Folic acid, a doctor visit, and healthy habits before pregnancy. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Запишитесь в поликлинику по месту прикрепления и уточните, какие обследования покрываются по ГОБМП и ОСМС. Для планирования беременности удобно пройти терапевта и стоматолога заранее.",
+                "kk": "Тіркелген емханада қабылдауға жазылып, ГОБМП және ОСМС бойынша қандай тексерулер қамтылатынын нақтылаңыз. Жүктілікті жоспарлауда терапевт пен стоматологқа алдын ала қаралған ыңғайлы.",
+                "en": "Book visits at your attached clinic and confirm which checks are covered by GOBMP and OSMS. It is practical to see a therapist and dentist before pregnancy."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Составьте общий календарь: анализы, приём витаминов и даты консультаций. Держите в телефоне контакты ЖК, лаборатории и семейного врача.",
+                "kk": "Ортақ күнтізбе жасаңыз: талдаулар, витамин қабылдау және кеңес күндері. Телефонда әйелдер консультациясы, зертхана және отбасылық дәрігер байланысын сақтаңыз.",
+                "en": "Create a shared calendar for tests, vitamins, and visits. Keep contacts for women’s consultation, lab, and family doctor in your phone."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-01-q1",
+                "text": {
+                  "ru": "Что обычно рекомендуют до планируемой беременности?",
+                  "kk": "Жоспарланған жүктілікке дейін әдетте не ұсынылады?",
+                  "en": "What is usually recommended before planned pregnancy?"
+                },
+                "options": [
+                  {
+                    "ru": "Фолиевую кислоту по назначению врача",
+                    "kk": "Дәрігер тағайындаған фолий қышқылын қабылдау",
+                    "en": "Take folic acid as prescribed by a doctor"
+                  },
+                  {
+                    "ru": "Отмену всех витаминов",
+                    "kk": "Барлық витаминді тоқтату",
+                    "en": "Stop all vitamins"
+                  },
+                  {
+                    "ru": "Только народные методы",
+                    "kk": "Тек халықтық әдістер",
+                    "en": "Use only folk remedies"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-02",
+          "order": 2,
+          "phase": "planning",
+          "phase_label": {
+            "ru": "Планирование",
+            "kk": "Жоспарлау",
+            "en": "Planning"
+          },
+          "title": {
+            "ru": "Эмоциональная готовность",
+            "kk": "Эмоциялық дайындық",
+            "en": "Emotional readiness"
+          },
+          "duration_min": 9,
+          "is_premium": false,
+          "summary": {
+            "ru": "Как справиться с тревогой, обсудить ожидания с партнёром и подготовиться к изменениям.",
+            "kk": "Уайымды басқару, серіктеспен күтулерді талқылау және өзгерістерге дайындалу жолы.",
+            "en": "How to manage anxiety, align expectations, and prepare for changes."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Тревога — это нормально",
+                "kk": "Уайымдау — қалыпты",
+                "en": "Anxiety is normal"
+              },
+              "body": {
+                "ru": "Страхи перед беременностью и родительством встречаются часто. Полезно обсуждать их с партнёром, близкими или психологом, а не копить внутри.",
+                "kk": "Жүктілік пен ата-ана болуға қатысты қорқыныш жиі кездеседі. Оны іште сақтамай, серіктеспен, жақындармен немесе психологпен талқылаған пайдалы.",
+                "en": "Fears about pregnancy and parenthood are common. It is healthier to discuss them with your partner, family, or a psychologist instead of keeping them inside."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Общий план",
+                "kk": "Жалпы жоспар",
+                "en": "General plan"
+              },
+              "body": {
+                "ru": "Поговорите о финансах, быте, помощи после родов и графике декрета. Чем яснее договорённости, тем спокойнее старт.",
+                "kk": "Қаржы, тұрмыс, босанғаннан кейінгі көмек және декрет кестесі туралы сөйлесіңіз. Келісім неғұрлым анық болса, бастау соғұрлым тыныш өтеді.",
+                "en": "Discuss finances, household duties, postpartum help, and maternity leave timing. The clearer your agreements are, the calmer your start will be."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Запишите вопросы врачу заранее. Возьмите результаты прошлых анализов. Обсудите с партнёром ожидания от родов и первых месяцев.",
+                "kk": "Сұрақтарды алдын ала жазып алыңыз. Ескі талдау нәтижелерін алыңыз. Босану мен алғашқы айлар туралы серіктесіңізбен сөйлесіңіз.",
+                "en": "Write questions for your doctor in advance. Bring previous test results. Discuss birth and early months with your partner."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Как справиться с тревогой, обсудить ожидания с партнёром и подготовиться к изменениям. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Уайымды басқару, серіктеспен күтулерді талқылау және өзгерістерге дайындалу жолы. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "How to manage anxiety, align expectations, and prepare for changes. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Обсудите с партнёром роли на период беременности и первые 40 дней после родов. Заранее договоритесь, кто помогает с бытом и кто сопровождает вас на приёмы в ЖК.",
+                "kk": "Серіктеспен жүктілік кезеңіндегі және босанғаннан кейінгі алғашқы 40 күндегі рөлдерді талқылаңыз. Үй шаруасына кім көмектесетінін және ЖК-ға кім бірге баратынын алдын ала келісіңіз.",
+                "en": "Discuss roles for pregnancy and the first 40 days postpartum. Agree in advance who supports daily chores and who joins visits to women’s consultation."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "В крупных городах есть психологи при поликлиниках и частные специалисты с онлайн-консультациями на русском и казахском. Если тревога мешает сну и повседневности, попросите направление у врача.",
+                "kk": "Ірі қалаларда емханалар жанында психологтар және орысша, қазақша онлайн кеңес беретін жеке мамандар бар. Егер уайым ұйқыға және күнделікті өмірге кедергі болса, дәрігерден жолдама сұраңыз.",
+                "en": "Large cities offer clinic psychologists and private online specialists in Russian and Kazakh. If anxiety disrupts sleep or daily life, ask your doctor for referral."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-02-q1",
+                "text": {
+                  "ru": "Что помогает при тревоге перед беременностью?",
+                  "kk": "Жүктілік алдындағы уайымда не көмектеседі?",
+                  "en": "What helps with anxiety before pregnancy?"
+                },
+                "options": [
+                  {
+                    "ru": "Открытый разговор с партнёром",
+                    "kk": "Серіктеспен ашық сөйлесу",
+                    "en": "Open conversation with your partner"
+                  },
+                  {
+                    "ru": "Полное молчание",
+                    "kk": "Толық үндемеу",
+                    "en": "Complete silence"
+                  },
+                  {
+                    "ru": "Только советы из соцсетей",
+                    "kk": "Тек әлеуметтік желідегі кеңестер",
+                    "en": "Only social media advice"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-03",
+          "order": 3,
+          "phase": "trimester-1",
+          "phase_label": {
+            "ru": "1 триместр",
+            "kk": "1 триместр",
+            "en": "1st trimester"
+          },
+          "title": {
+            "ru": "Первые недели: что нормально",
+            "kk": "Алғашқы апталар: не қалыпты",
+            "en": "First weeks: what is normal"
+          },
+          "duration_min": 13,
+          "is_premium": false,
+          "summary": {
+            "ru": "Ранняя регистрация, токсикоз, усталость и когда звонить врачу.",
+            "kk": "Ерте есепке тұру, токсикоз, шаршау және қашан дәрігерге хабарласу керек.",
+            "en": "Early registration, nausea, fatigue, and when to call a doctor."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Постановка на учёт",
+                "kk": "Есепке тұру",
+                "en": "Registering for care"
+              },
+              "body": {
+                "ru": "В Казахстане важно встать на учёт в женской консультации в ранние сроки — обычно до 12 недель. Это даёт доступ к скринингам и наблюдению.",
+                "kk": "Қазақстанда әйелдер консультациясына ерте мерзімде, әдетте 12 аптаға дейін, есепке тұру маңызды. Бұл скринингтер мен тұрақты бақылауға қолжеткізеді.",
+                "en": "In Kazakhstan, it is important to register at women’s consultation early, usually before 12 weeks. This gives access to screenings and follow-up care."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда срочно к врачу",
+                "kk": "Қашан шұғыл дәрігерге бару керек",
+                "en": "When to seek urgent care"
+              },
+              "body": {
+                "ru": "Немедленно обратитесь при сильной боли, кровотечении, температуре 38°C+, обмороке или рвоте с признаками обезвоживания.",
+                "kk": "Қатты ауырсыну, қан кету, 38°C+ қызу, естен тану немесе сусыздану белгілері бар құсу болса, дереу дәрігерге жүгініңіз.",
+                "en": "Seek urgent care immediately for severe pain, bleeding, fever of 38C+, fainting, or vomiting with signs of dehydration."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Встаньте на учёт в женской консультации. Уточните график анализов и УЗИ. Держите под рукой телефон врача и номер 103.",
+                "kk": "Әйелдер консультациясында есепке тұрыңыз. Талдау мен УДЗ кестесін нақтылаңыз. Дәрігер телефоны мен 103 нөмірін жанында ұстаңыз.",
+                "en": "Register at the women's clinic. Confirm your test and ultrasound schedule. Keep your doctor's number and 103 handy."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Ранняя регистрация, токсикоз, усталость и когда звонить врачу. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Ерте есепке тұру, токсикоз, шаршау және қашан дәрігерге хабарласу керек. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Early registration, nausea, fatigue, and when to call a doctor. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "После подтверждения беременности встаньте на учёт в женской консультации как можно раньше, обычно до 12 недель. Это помогает пройти скрининги вовремя и оформить документы без спешки.",
+                "kk": "Жүктілік расталғаннан кейін әйелдер консультациясына мүмкіндігінше ерте, әдетте 12 аптаға дейін есепке тұрыңыз. Бұл скринингтерден уақытында өтіп, құжаттарды асықпай рәсімдеуге көмектеседі.",
+                "en": "Register at women’s consultation early, usually before 12 weeks. This helps complete screenings on time and handle documents without stress."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда звонить 103",
+                "kk": "103-ке қашан қоңырау шалу керек",
+                "en": "When to call 103"
+              },
+              "body": {
+                "ru": "Вызывайте 103 при сильном кровотечении, обмороке, резкой боли в животе или многократной рвоте с признаками обезвоживания. Пока ждёте бригаду, подготовьте удостоверение и обменную карту.",
+                "kk": "Қатты қан кету, есінен тану, іштің қатты ауыруы немесе сусыздану белгілері бар жиі құсу кезінде 103-ке қоңырау шалыңыз. Жедел жәрдем келгенше жеке куәлік пен айырбас картасын дайындаңыз.",
+                "en": "Call 103 for heavy bleeding, fainting, severe abdominal pain, or repeated vomiting with dehydration. While waiting, prepare your ID and pregnancy records."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-03-q1",
+                "text": {
+                  "ru": "Когда нужно срочно обращаться к врачу?",
+                  "kk": "Қашан шұғыл дәрігерге қаралу керек?",
+                  "en": "When should you seek urgent medical care?"
+                },
+                "options": [
+                  {
+                    "ru": "При кровотечении или сильной боли",
+                    "kk": "Қан кету немесе қатты ауырсыну кезінде",
+                    "en": "With bleeding or severe pain"
+                  },
+                  {
+                    "ru": "При лёгкой усталости",
+                    "kk": "Жеңіл шаршау кезінде",
+                    "en": "With mild tiredness"
+                  },
+                  {
+                    "ru": "При желании спать днём",
+                    "kk": "Күндіз ұйықтағыңыз келгенде",
+                    "en": "When you feel like taking a nap"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-04",
+          "order": 4,
+          "phase": "trimester-1",
+          "phase_label": {
+            "ru": "1 триместр",
+            "kk": "1 триместр",
+            "en": "1st trimester"
+          },
+          "title": {
+            "ru": "Анализы и УЗИ в ранние сроки",
+            "kk": "Ерте мерзімдегі талдаулар мен УДЗ",
+            "en": "Early tests and ultrasound"
+          },
+          "duration_min": 12,
+          "is_premium": false,
+          "summary": {
+            "ru": "Базовые обследования, первый скрининг и как готовиться к визитам.",
+            "kk": "Негізгі тексерулер, алғашқы скрининг және қабылдауға дайындалу.",
+            "en": "Basic checkups, first screening, and how to prepare for visits."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Что обычно назначают",
+                "kk": "Әдетте не тағайындалады",
+                "en": "What is usually prescribed"
+              },
+              "body": {
+                "ru": "Общий и биохимический анализ крови, инфекции, группу крови, УЗИ для подтверждения срока. Точный список определяет ваш врач.",
+                "kk": "Әдетте қанның жалпы және биохимиялық талдауы, инфекцияларға тексеру, қан тобы, мерзімді нақтылауға УДЗ тағайындалады. Нақты тізімді дәрігер анықтайды.",
+                "en": "Common orders include complete and biochemical blood tests, infection screening, blood group, and ultrasound to confirm gestational age. Your doctor defines the exact list."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Как подготовиться",
+                "kk": "Қалай дайындалу керек",
+                "en": "How to prepare"
+              },
+              "body": {
+                "ru": "Записывайте вопросы заранее, берите результаты прошлых анализов, уточняйте, нужно ли приходить натощак.",
+                "kk": "Сұрақтарды алдын ала жазып, бұрынғы талдау нәтижелерін өзіңізбен алыңыз және ашқарын келу керек пе екенін нақтылаңыз.",
+                "en": "Write down questions in advance, bring previous test results, and check whether you need to come fasting."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Встаньте на учёт в женской консультации. Уточните график анализов и УЗИ. Держите под рукой телефон врача и номер 103.",
+                "kk": "Әйелдер консультациясында есепке тұрыңыз. Талдау мен УДЗ кестесін нақтылаңыз. Дәрігер телефоны мен 103 нөмірін жанында ұстаңыз.",
+                "en": "Register at the women's clinic. Confirm your test and ultrasound schedule. Keep your doctor's number and 103 handy."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Базовые обследования, первый скрининг и как готовиться к визитам. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Негізгі тексерулер, алғашқы скрининг және қабылдауға дайындалу. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Basic checkups, first screening, and how to prepare for visits. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Перед визитом в ЖК соберите папку: предыдущие результаты, список лекарств и вопросы врачу. Так вы быстрее пройдёте приём и не забудете важные детали.",
+                "kk": "ЖК-ға барар алдында папка дайындаңыз: алдыңғы нәтижелер, қабылдап жүрген дәрілер және дәрігерге сұрақтар. Осылайша қабылдау тез өтіп, маңыздыны ұмытпайсыз.",
+                "en": "Before your visit, prepare a folder with previous results, current medicines, and questions. This makes the appointment faster and more complete."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Уточняйте в регистратуре, какие анализы делаются бесплатно по ОСМС/ГОБМП, а где может понадобиться частная лаборатория. Если назначение не понятно, попросите объяснить цель каждого обследования.",
+                "kk": "Тіркеу бөлімінен ОСМС/ГОБМП бойынша қай талдаулар тегін жасалатынын, ал қайсысына жеке зертхана қажет болуы мүмкін екенін нақтылаңыз. Тағайындау түсініксіз болса, әр тексерудің мақсатын сұрап алыңыз.",
+                "en": "Check which tests are covered by OSMS/GOBMP and which may require a private lab. If something is unclear, ask why each test is needed."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-04-q1",
+                "text": {
+                  "ru": "Зачем нужен ранний скрининг?",
+                  "kk": "Ерте скрининг не үшін қажет?",
+                  "en": "Why is early screening needed?"
+                },
+                "options": [
+                  {
+                    "ru": "Для оценки развития плода по показаниям",
+                    "kk": "Көрсеткіш бойынша ұрық дамуын бағалау үшін",
+                    "en": "To assess fetal development when indicated"
+                  },
+                  {
+                    "ru": "Только для выбора имени",
+                    "kk": "Тек ат таңдау үшін",
+                    "en": "Only to choose a name"
+                  },
+                  {
+                    "ru": "Он никогда не нужен",
+                    "kk": "Ол ешқашан қажет емес",
+                    "en": "It is never needed"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-05",
+          "order": 5,
+          "phase": "trimester-2",
+          "phase_label": {
+            "ru": "2 триместр",
+            "kk": "2 триместр",
+            "en": "2nd trimester"
+          },
+          "title": {
+            "ru": "Питание и безопасные продукты",
+            "kk": "Тамақтану және қауіпсіз өнімдер",
+            "en": "Nutrition and safe foods"
+          },
+          "duration_min": 15,
+          "is_premium": false,
+          "summary": {
+            "ru": "Сбалансированный рацион, запреты по питанию и достаточное количество воды.",
+            "kk": "Теңгерімді ас, шектеулер және жеткілікті су ішу.",
+            "en": "Balanced meals, food restrictions, and enough water intake."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Основа рациона",
+                "kk": "Тамақтанудың негізі",
+                "en": "Diet basics"
+              },
+              "body": {
+                "ru": "Белок, овощи, фрукты, цельные крупы, полезные жиры и вода. Питайтесь регулярно небольшими порциями, если есть тошнота.",
+                "kk": "Рационның негізі: ақуыз, көкөніс, жеміс, тұтас дәнді дақылдар, пайдалы майлар және су. Жүрек айну болса, аз мөлшермен жиі тамақтаныңыз.",
+                "en": "Build your meals around protein, vegetables, fruit, whole grains, healthy fats, and water. If nausea is present, eat small portions regularly."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чего избегать",
+                "kk": "Неден аулақ болу керек",
+                "en": "What to avoid"
+              },
+              "body": {
+                "ru": "Сырое мясо и рыба, непастеризованные молочные продукты, алкоголь. Ограничьте кофеин по рекомендации врача.",
+                "kk": "Шикі ет пен балықтан, пастерленбеген сүт өнімдерінен және алкогольден аулақ болыңыз. Кофеинді дәрігер кеңесіне сай шектеңіз.",
+                "en": "Avoid raw meat and fish, unpasteurized dairy, and alcohol. Limit caffeine according to your doctor’s recommendation."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за шевелениями плода. Пейте достаточно воды. Не назначайте витамины и лекарства сами — только по рекомендации врача.",
+                "kk": "Бала қозғалысын бақылаңыз. Жеткілікті су ішіңіз. Дәрі-дәрмек пен витаминдерді өз бетіңізше қабылдамаңыз — тек дәрігер ұсынысы бойынша.",
+                "en": "Track fetal movements. Drink enough water. Do not take vitamins or medicines on your own — only as your doctor recommends."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Сбалансированный рацион, запреты по питанию и достаточное количество воды. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Теңгерімді ас, шектеулер және жеткілікті су ішу. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Balanced meals, food restrictions, and enough water intake. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "В жаркую погоду в Астане, Алматы и южных регионах следите за питьевым режимом особенно внимательно. Для готовых блюд и молочных продуктов выбирайте проверенные магазины и соблюдайте сроки хранения.",
+                "kk": "Астана, Алматы және оңтүстік өңірлердің ыстық ауа райында су ішу режимін мұқият бақылаңыз. Дайын тағам мен сүт өнімдерін тек сенімді дүкендерден алып, сақтау мерзімін қадағалаңыз.",
+                "en": "In hot weather, especially in Astana, Almaty, and southern regions, monitor hydration closely. Buy ready meals and dairy from trusted stores and check expiry dates."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Соберите простое недельное меню с белком, овощами и цельнозерновыми продуктами. Перекусы держите под рукой, чтобы не пропускать еду при тошноте.",
+                "kk": "Ақуыз, көкөніс және тұтас дәнді өнімдері бар қарапайым апталық мәзір құрыңыз. Жүрек айну кезінде тамақты жіберіп алмау үшін жеңіл тіскебасарды жанында ұстаңыз.",
+                "en": "Build a simple weekly menu with protein, vegetables, and whole grains. Keep easy snacks nearby so you do not skip meals during nausea."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-05-q1",
+                "text": {
+                  "ru": "Что лучше ограничить в питании беременной?",
+                  "kk": "Жүкті әйелдің тамағында нені шектеген дұрыс?",
+                  "en": "What should be limited in a pregnant diet?"
+                },
+                "options": [
+                  {
+                    "ru": "Непастеризованные молочные продукты",
+                    "kk": "Пастерленбеген сүт өнімдері",
+                    "en": "Unpasteurized dairy products"
+                  },
+                  {
+                    "ru": "Варёные овощи",
+                    "kk": "Піскен көкөністер",
+                    "en": "Cooked vegetables"
+                  },
+                  {
+                    "ru": "Питьевую воду",
+                    "kk": "Ауыз су",
+                    "en": "Drinking water"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-06",
+          "order": 6,
+          "phase": "trimester-2",
+          "phase_label": {
+            "ru": "2 триместр",
+            "kk": "2 триместр",
+            "en": "2nd trimester"
+          },
+          "title": {
+            "ru": "Железо, витамины и анализы",
+            "kk": "Темір, витаминдер және талдаулар",
+            "en": "Iron, vitamins, and tests"
+          },
+          "duration_min": 13,
+          "is_premium": false,
+          "summary": {
+            "ru": "Контроль гемоглобина, назначения врача и признаки анемии.",
+            "kk": "Гемоглобинді бақылау, дәрігер тағайындауы және анемия белгілері.",
+            "en": "Hemoglobin monitoring, doctor prescriptions, and anemia signs."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Витамины",
+                "kk": "Витаминдер",
+                "en": "Vitamins"
+              },
+              "body": {
+                "ru": "Фолиевая кислота, железо, витамин D и другие препараты назначает только врач — не принимайте всё подряд самостоятельно.",
+                "kk": "Фолий қышқылы, темір, D дәрумені және басқа препараттарды тек дәрігер тағайындайды — барлығын өз бетіңізше қабылдамаңыз.",
+                "en": "Folic acid, iron, vitamin D, and other supplements should be prescribed by a doctor only; do not take everything on your own."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Симптомы анемии",
+                "kk": "Анемия белгілері",
+                "en": "Anemia symptoms"
+              },
+              "body": {
+                "ru": "Сильная усталость, головокружение, бледность — повод сдать анализы и обсудить лечение с врачом.",
+                "kk": "Айқын шаршау, бас айналу және бозару болса, талдау тапсырып, емді дәрігермен талқылаңыз.",
+                "en": "Marked fatigue, dizziness, and pallor are reasons to get tested and discuss treatment with your doctor."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за шевелениями плода. Пейте достаточно воды. Не назначайте витамины и лекарства сами — только по рекомендации врача.",
+                "kk": "Бала қозғалысын бақылаңыз. Жеткілікті су ішіңіз. Дәрі-дәрмек пен витаминдерді өз бетіңізше қабылдамаңыз — тек дәрігер ұсынысы бойынша.",
+                "en": "Track fetal movements. Drink enough water. Do not take vitamins or medicines on your own — only as your doctor recommends."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Контроль гемоглобина, назначения врача и признаки анемии. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Гемоглобинді бақылау, дәрігер тағайындауы және анемия белгілері. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Hemoglobin monitoring, doctor prescriptions, and anemia signs. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Контроль гемоглобина обычно проводится по графику наблюдения в ЖК, часть анализов покрывается ОСМС. Не меняйте дозировку железа самостоятельно даже при улучшении самочувствия.",
+                "kk": "Гемоглобинді бақылау әдетте ЖК бақылау кестесімен жүргізіледі, талдаулардың бір бөлігі ОСМС арқылы қамтылады. Өзіңізді жақсы сезінсеңіз де темір дозасын өз бетіңізше өзгертпеңіз.",
+                "en": "Hemoglobin checks are usually done by schedule in women’s consultation, with many tests covered by OSMS. Do not change iron dosage on your own."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Поставьте напоминание о приёме препаратов и запивайте их по инструкции врача. Если есть запор, тошнота или слабость, сообщите врачу для коррекции схемы.",
+                "kk": "Препарат қабылдауға еске салғыш қойып, дәрігер нұсқаулығына сай ішіңіз. Іш қату, жүрек айну немесе әлсіздік болса, сызбаны түзету үшін дәрігерге хабарлаңыз.",
+                "en": "Set reminders for supplements and take them as prescribed. If you have constipation, nausea, or weakness, contact your doctor for adjustment."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-06-q1",
+                "text": {
+                  "ru": "Кто назначает витамины при беременности?",
+                  "kk": "Жүктілікте витаминдерді кім тағайындайды?",
+                  "en": "Who prescribes vitamins during pregnancy?"
+                },
+                "options": [
+                  {
+                    "ru": "Врач по результатам анализов",
+                    "kk": "Талдау нәтижесіне қарай дәрігер",
+                    "en": "A doctor based on test results"
+                  },
+                  {
+                    "ru": "Любой продавец в аптеке",
+                    "kk": "Дәріханадағы кез келген сатушы",
+                    "en": "Any pharmacy seller"
+                  },
+                  {
+                    "ru": "Никто, витамины не нужны",
+                    "kk": "Ешкім, витамин қажет емес",
+                    "en": "No one, vitamins are not needed"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-07",
+          "order": 7,
+          "phase": "trimester-2",
+          "phase_label": {
+            "ru": "2 триместр",
+            "kk": "2 триместр",
+            "en": "2nd trimester"
+          },
+          "title": {
+            "ru": "Шевеления плода",
+            "kk": "Ұрық қимылы",
+            "en": "Fetal movements"
+          },
+          "duration_min": 11,
+          "is_premium": false,
+          "summary": {
+            "ru": "Когда ждать первые шевеления и что делать, если их стало меньше.",
+            "kk": "Алғашқы қимылдар қашан сезіледі және азайса не істеу керек.",
+            "en": "When to expect first movements and what to do if they decrease."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Норма",
+                "kk": "Қалыпты жағдай",
+                "en": "Normal pattern"
+              },
+              "body": {
+                "ru": "Первые шевеления часто ощущаются на 18–22 неделе. Со временем они становятся регулярнее — вы учитесь узнавать «ритм» малыша.",
+                "kk": "Алғашқы қимылдар көбіне 18–22 аптада сезіледі. Уақыт өте олар тұрақтанып, сіз сәбидің «ырғағын» тани бастайсыз.",
+                "en": "First fetal movements are often felt around weeks 18-22. Over time they become more regular, and you learn your baby’s pattern."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Тревожный сигнал",
+                "kk": "Дабыл белгісі",
+                "en": "Warning sign"
+              },
+              "body": {
+                "ru": "Резкое уменьшение или исчезновение шевелений — повод срочно связаться с врачом или поехать на осмотр.",
+                "kk": "Қимылдың кенет азаюы немесе жоғалуы — дәрігермен шұғыл байланысуға не тексерілуге баруға себеп.",
+                "en": "A sudden decrease or absence of movement is a warning sign: contact your doctor urgently or go for an exam."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за шевелениями плода. Пейте достаточно воды. Не назначайте витамины и лекарства сами — только по рекомендации врача.",
+                "kk": "Бала қозғалысын бақылаңыз. Жеткілікті су ішіңіз. Дәрі-дәрмек пен витаминдерді өз бетіңізше қабылдамаңыз — тек дәрігер ұсынысы бойынша.",
+                "en": "Track fetal movements. Drink enough water. Do not take vitamins or medicines on your own — only as your doctor recommends."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Когда ждать первые шевеления и что делать, если их стало меньше. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Алғашқы қимылдар қашан сезіледі және азайса не істеу керек. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "When to expect first movements and what to do if they decrease. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Наблюдайте за привычным ритмом шевелений в одно и то же время дня, когда вы спокойны. Если движения заметно уменьшились, не откладывайте звонок в ЖК или врачу.",
+                "kk": "Сәбидің қимыл ырғағын күн сайын бір уақытта, өзіңіз тыныш кезде бақылаңыз. Қимыл айқын азайса, ЖК-ға не дәрігерге хабарласуды кешіктірмеңіз.",
+                "en": "Track movement at the same time each day when you are calm. If movement clearly drops, call your clinic or doctor without delay."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда звонить 103",
+                "kk": "103-ке қашан қоңырау шалу керек",
+                "en": "When to call 103"
+              },
+              "body": {
+                "ru": "Если уменьшение шевелений сопровождается болью, кровянистыми выделениями или ухудшением самочувствия, вызывайте 103. По возможности возьмите обменную карту и результаты последних УЗИ.",
+                "kk": "Қимылдың азаюы іштің ауыруы, қанды бөлінді немесе жағдайдың нашарлауымен бірге болса, 103-ке қоңырау шалыңыз. Мүмкін болса айырбас картасы мен соңғы УДЗ нәтижелерін алыңыз.",
+                "en": "If reduced movement comes with pain, bleeding, or feeling unwell, call 103. If possible, take your pregnancy record and latest ultrasound results."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-07-q1",
+                "text": {
+                  "ru": "Что делать, если шевелений стало заметно меньше?",
+                  "kk": "Қимыл анық азайса не істеу керек?",
+                  "en": "What should you do if fetal movement clearly decreases?"
+                },
+                "options": [
+                  {
+                    "ru": "Срочно связаться с врачом",
+                    "kk": "Шұғыл дәрігермен байланысу",
+                    "en": "Contact your doctor urgently"
+                  },
+                  {
+                    "ru": "Подождать неделю",
+                    "kk": "Бір апта күту",
+                    "en": "Wait a week"
+                  },
+                  {
+                    "ru": "Ничего не делать",
+                    "kk": "Ештеңе істемеу",
+                    "en": "Do nothing"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-08",
+          "order": 8,
+          "phase": "trimester-2",
+          "phase_label": {
+            "ru": "2 триместр",
+            "kk": "2 триместр",
+            "en": "2nd trimester"
+          },
+          "title": {
+            "ru": "Движение, отдых и работа",
+            "kk": "Қозғалыс, демалыс және жұмыс",
+            "en": "Movement, rest, and work"
+          },
+          "duration_min": 12,
+          "is_premium": false,
+          "summary": {
+            "ru": "Безопасная активность, сон, путешествия и декретные вопросы.",
+            "kk": "Қауіпсіз белсенділік, ұйқы, сапар және декретке қатысты сұрақтар.",
+            "en": "Safe activity, sleep, travel, and maternity leave planning."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Физическая активность",
+                "kk": "Дене белсенділігі",
+                "en": "Physical activity"
+              },
+              "body": {
+                "ru": "Прогулки, плавание, йога для беременных — по согласованию с врачом. Избегайте падений, перегрева и контактных видов спорта.",
+                "kk": "Серуен, жүзу, жүкті әйелдерге арналған йога дәрігермен келісіп жасалады. Құлаудан, қызып кетуден және жанаспалы спорттан сақтаныңыз.",
+                "en": "Walking, swimming, and prenatal yoga are good options when approved by your doctor. Avoid falls, overheating, and contact sports."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Отдых",
+                "kk": "Демалыс",
+                "en": "Rest"
+              },
+              "body": {
+                "ru": "Спите на боку с подушкой между колен, делайте перерывы при сидячей работе, пейте достаточно воды.",
+                "kk": "Қырынан жатып, тізе арасына жастық қойып ұйықтаңыз; отырып істейтін жұмыста үзіліс жасаңыз және жеткілікті су ішіңіз.",
+                "en": "Sleep on your side with a pillow between your knees, take breaks during seated work, and drink enough water."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за шевелениями плода. Пейте достаточно воды. Не назначайте витамины и лекарства сами — только по рекомендации врача.",
+                "kk": "Бала қозғалысын бақылаңыз. Жеткілікті су ішіңіз. Дәрі-дәрмек пен витаминдерді өз бетіңізше қабылдамаңыз — тек дәрігер ұсынысы бойынша.",
+                "en": "Track fetal movements. Drink enough water. Do not take vitamins or medicines on your own — only as your doctor recommends."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Безопасная активность, сон, путешествия и декретные вопросы. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Қауіпсіз белсенділік, ұйқы, сапар және декретке қатысты сұрақтар. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Safe activity, sleep, travel, and maternity leave planning. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Для офисной работы ставьте таймер на перерывы каждые 45-60 минут и делайте короткую разминку. В дороге держите воду и компрессионные чулки, если их рекомендовал врач.",
+                "kk": "Кеңседе жұмыс істегенде әр 45-60 минут сайын үзіліске таймер қойып, қысқа жаттығу жасаңыз. Жолда дәрігер ұсынса су мен компрессиялық шұлықты бірге алыңыз.",
+                "en": "For desk work, set breaks every 45-60 minutes and do short movement. During travel, keep water and compression socks if your doctor advised them."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "При длительных поездках между городами заранее узнайте, где ближайший роддом или перинатальный центр по маршруту. Храните электронные копии документов в телефоне и бумажные в сумке.",
+                "kk": "Қалалар арасындағы ұзақ сапарға шығарда жолдағы ең жақын перзентхана не перинаталдық орталықты алдын ала біліңіз. Құжаттардың электронды көшірмесін телефонда, қағаз нұсқасын сөмкеде сақтаңыз.",
+                "en": "For intercity travel, check the nearest maternity or perinatal center on your route in advance. Keep document copies on your phone and in your bag."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-08-q1",
+                "text": {
+                  "ru": "Какую позу для сна рекомендуют во 2–3 триместре?",
+                  "kk": "2-3 триместрде ұйқыға қандай қалып ұсынылады?",
+                  "en": "What sleep position is recommended in 2nd-3rd trimester?"
+                },
+                "options": [
+                  {
+                    "ru": "На боку",
+                    "kk": "Қырынан",
+                    "en": "On your side"
+                  },
+                  {
+                    "ru": "На животе",
+                    "kk": "Ішімен",
+                    "en": "On your stomach"
+                  },
+                  {
+                    "ru": "Только сидя",
+                    "kk": "Тек отырып",
+                    "en": "Only sitting up"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-09",
+          "order": 9,
+          "phase": "trimester-3",
+          "phase_label": {
+            "ru": "3 триместр",
+            "kk": "3 триместр",
+            "en": "3rd trimester"
+          },
+          "title": {
+            "ru": "Сумка в роддом и документы",
+            "kk": "Перзентхана сөмкесі және құжаттар",
+            "en": "Hospital bag and documents"
+          },
+          "duration_min": 14,
+          "is_premium": false,
+          "summary": {
+            "ru": "Что собрать для мамы, папы и малыша — список с пояснениями.",
+            "kk": "Анаға, әкеге және сәбиге не дайындау керек — түсіндірмесі бар тізім.",
+            "en": "What to pack for mom, dad, and baby with practical notes."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Документы",
+                "kk": "Құжаттар",
+                "en": "Documents"
+              },
+              "body": {
+                "ru": "Удостоверение личности, полис/договор с роддомом, обменная карта, результаты анализов. Уточните список в выбранном роддоме.",
+                "kk": "Жеке куәлік, перзентханамен полис/келісімшарт, айырбас карта, талдау нәтижелері қажет. Нақты тізімді таңдаған перзентханадан анықтаңыз.",
+                "en": "Prepare your ID, insurance/contract papers, pregnancy record, and test results. Confirm the exact list with your chosen maternity hospital."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Вещи",
+                "kk": "Заттар",
+                "en": "Items"
+              },
+              "body": {
+                "ru": "Халат, прокладки, тапочки, средства гигиены, одежда для выписки, подгузники NB, пелёнки, боди. Соберите заранее к 36-й неделе.",
+                "kk": "Халат, төсем, тәпішке, гигиена заттары, шығуға арналған киім, NB жөргек, жаялық және боди дайындаңыз. Сөмкені 36-аптаға дейін жинап қойыңыз.",
+                "en": "Pack a robe, pads, slippers, hygiene items, discharge clothes, NB diapers, swaddles, and bodysuits. Have the bag ready by week 36."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Соберите сумку в роддом к 36-й неделе. Выберите роддом и проложите маршрут. Обсудите план родов с партнёром и врачом.",
+                "kk": "36-аптаға дейін босана үйі сөмкесін жинаңыз. Босана үйін таңдап, маршрутты анықтаңыз. Босану жоспарын серіктес пен дәрігермен талқылаңыз.",
+                "en": "Pack your hospital bag by week 36. Choose a hospital and plan the route. Discuss your birth plan with your partner and doctor."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Что собрать для мамы, папы и малыша — список с пояснениями. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Анаға, әкеге және сәбиге не дайындау керек — түсіндірмесі бар тізім. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "What to pack for mom, dad, and baby with practical notes. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Уточните в выбранном роддоме точный список вещей: в разных учреждениях требования к пелёнкам, одежде и гигиене отличаются. Проверяйте, какие документы нужны при госпитализации по ОСМС/ГОБМП или договору.",
+                "kk": "Таңдаған перзентханада заттардың нақты тізімін анықтаңыз: әр мекемеде жөргек, киім және гигиена талаптары әртүрлі. ОСМС/ГОБМП немесе келісімшарт бойынша жатуға қажет құжаттарды тексеріңіз.",
+                "en": "Confirm the exact packing list with your chosen hospital, because requirements vary. Verify which documents are needed for OSMS/GOBMP or contract admission."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Разложите сумки по категориям: документы, для мамы, для малыша, на выписку. Прикрепите стикер с контактами партнёра и быстрым списком важных номеров.",
+                "kk": "Сөмкелерді санатпен бөліңіз: құжаттар, анаға, сәбиге, шығуға арналған. Серіктестің байланысын және маңызды нөмірлер тізімін стикерге жазып жапсырыңыз.",
+                "en": "Pack by categories: documents, mom, baby, and discharge items. Add a sticker with partner contacts and key phone numbers."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-09-q1",
+                "text": {
+                  "ru": "Когда лучше собрать сумку в роддом?",
+                  "kk": "Перзентхана сөмкесін қашан жинаған дұрыс?",
+                  "en": "When is the best time to pack the hospital bag?"
+                },
+                "options": [
+                  {
+                    "ru": "К 36-й неделе",
+                    "kk": "36-аптаға қарай",
+                    "en": "By week 36"
+                  },
+                  {
+                    "ru": "В день родов",
+                    "kk": "Босану күні",
+                    "en": "On the day of birth"
+                  },
+                  {
+                    "ru": "После выписки",
+                    "kk": "Шыққаннан кейін",
+                    "en": "After discharge"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-10",
+          "order": 10,
+          "phase": "trimester-3",
+          "phase_label": {
+            "ru": "3 триместр",
+            "kk": "3 триместр",
+            "en": "3rd trimester"
+          },
+          "title": {
+            "ru": "Как выбрать роддом",
+            "kk": "Перзентхананы қалай таңдау керек",
+            "en": "How to choose a maternity hospital"
+          },
+          "duration_min": 13,
+          "is_premium": false,
+          "summary": {
+            "ru": "Государственный или частный, платные и бесплатные роды, отзывы и сравнение.",
+            "kk": "Мемлекеттік не жекеменшік, ақылы не тегін босану, пікірлер мен салыстыру.",
+            "en": "Public or private, paid or covered birth, reviews and comparison."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "На что смотреть",
+                "kk": "Неге назар аудару керек",
+                "en": "What to look at"
+              },
+              "body": {
+                "ru": "Расположение, наличие реанимации для новорождённых, условия палат, возможность партнёрских родов, отзывы мам. Используйте карту роддомов в приложении.",
+                "kk": "Орналасуы, нәресте реанимациясының болуы, палата жағдайы, серіктеспен босану мүмкіндігі және аналардың пікірін бағалаңыз. Қосымшадағы перзентхана картасын пайдаланыңыз.",
+                "en": "Look at location, neonatal intensive care availability, ward conditions, partner-birth policy, and mothers’ reviews. Use the maternity hospital map in the app."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Цены",
+                "kk": "Бағалар",
+                "en": "Prices"
+              },
+              "body": {
+                "ru": "Бесплатные роды возможны по полису в госучреждениях. Платные пакеты различаются — сравните услуги и что входит в стоимость.",
+                "kk": "Мемлекеттік мекемелерде полис бойынша тегін босану мүмкін. Ақылы пакеттер әртүрлі, сондықтан қызметтер мен бағаға не кіретінін салыстырыңыз.",
+                "en": "Public facilities may offer covered birth under insurance. Paid packages vary, so compare services and what is included in the price."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Соберите сумку в роддом к 36-й неделе. Выберите роддом и проложите маршрут. Обсудите план родов с партнёром и врачом.",
+                "kk": "36-аптаға дейін босана үйі сөмкесін жинаңыз. Босана үйін таңдап, маршрутты анықтаңыз. Босану жоспарын серіктес пен дәрігермен талқылаңыз.",
+                "en": "Pack your hospital bag by week 36. Choose a hospital and plan the route. Discuss your birth plan with your partner and doctor."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Государственный или частный, платные и бесплатные роды, отзывы и сравнение. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Мемлекеттік не жекеменшік, ақылы не тегін босану, пікірлер мен салыстыру. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Public or private, paid or covered birth, reviews and comparison. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Сравнивайте роддома по доступности неонатальной помощи, условиям партнёрских родов и удалённости от дома. По ОСМС/ГОБМП часть услуг может быть бесплатной, но уточняйте объём заранее.",
+                "kk": "Перзентханаларды неонаталдық көмектің қолжетімділігі, серіктеспен босану мүмкіндігі және үйден қашықтығы бойынша салыстырыңыз. ОСМС/ГОБМП бойынша қызметтің бір бөлігі тегін болуы мүмкін, көлемін алдын ала нақтылаңыз.",
+                "en": "Compare hospitals by neonatal care, partner birth policy, and distance from home. Some services may be covered by OSMS/GOBMP, so confirm details early."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Сделайте таблицу: стоимость, что включено, наличие отдельной палаты и посещений. После очного визита в роддом обновите таблицу и примите решение вместе с партнёром.",
+                "kk": "Кесте жасаңыз: баға, не кіреді, жеке палата және келушіге рұқсат. Перзентханаға барып келгеннен кейін кестені жаңартып, серіктеспен бірге шешім қабылдаңыз.",
+                "en": "Make a comparison table with cost, included services, private room options, and visiting rules. Update it after on-site visits and decide together."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-10-q1",
+                "text": {
+                  "ru": "Что важно при выборе роддома?",
+                  "kk": "Перзентхана таңдағанда не маңызды?",
+                  "en": "What matters when choosing a maternity hospital?"
+                },
+                "options": [
+                  {
+                    "ru": "Близость, отзывы и уровень помощи малышу",
+                    "kk": "Жақындығы, пікірлер және сәбиге көмек деңгейі",
+                    "en": "Distance, reviews, and newborn care level"
+                  },
+                  {
+                    "ru": "Только красивый сайт",
+                    "kk": "Тек әдемі сайт",
+                    "en": "Only a nice website"
+                  },
+                  {
+                    "ru": "Только рейтинг в соцсетях",
+                    "kk": "Тек әлеуметтік желідегі рейтинг",
+                    "en": "Only social media rating"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-11",
+          "order": 11,
+          "phase": "trimester-3",
+          "phase_label": {
+            "ru": "3 триместр",
+            "kk": "3 триместр",
+            "en": "3rd trimester"
+          },
+          "title": {
+            "ru": "Схватки, воды и когда ехать",
+            "kk": "Толғақ, су кетуі және қашан бару керек",
+            "en": "Contractions, water breaking, and when to go"
+          },
+          "duration_min": 15,
+          "is_premium": false,
+          "summary": {
+            "ru": "Признаки начала родов, ложные схватки и алгоритм действий.",
+            "kk": "Босанудың басталу белгілері, жалған толғақ және әрекет алгоритмі.",
+            "en": "Signs of labor, false contractions, and a clear action plan."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Признаки",
+                "kk": "Белгілер",
+                "en": "Signs"
+              },
+              "body": {
+                "ru": "Регулярные схватки с нарастающей интенсивностью, отхождение вод, кровянистые выделения — поводы связаться с врачом.",
+                "kk": "Күшейе түсетін тұрақты толғақ, су кетуі және қанды бөлінділер — дәрігермен байланысуға себеп.",
+                "en": "Regular contractions that grow stronger, leaking waters, and bloody discharge are signs to contact your doctor."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Алгоритм",
+                "kk": "Алгоритм",
+                "en": "Action steps"
+              },
+              "body": {
+                "ru": "Позвоните в роддом или врачу, уточните, когда приезжать. При отхождении зелёных вод или сильном кровотечении — ехать сразу.",
+                "kk": "Перзентханаға не дәрігерге қоңырау шалып, қашан келу керек екенін нақтылаңыз. Су жасыл түсте кетсе немесе қатты қан кетсе, бірден барыңыз.",
+                "en": "Call your maternity hospital or doctor and confirm when to come. If fluid is green or bleeding is heavy, go immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Соберите сумку в роддом к 36-й неделе. Выберите роддом и проложите маршрут. Обсудите план родов с партнёром и врачом.",
+                "kk": "36-аптаға дейін босана үйі сөмкесін жинаңыз. Босана үйін таңдап, маршрутты анықтаңыз. Босану жоспарын серіктес пен дәрігермен талқылаңыз.",
+                "en": "Pack your hospital bag by week 36. Choose a hospital and plan the route. Discuss your birth plan with your partner and doctor."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Признаки начала родов, ложные схватки и алгоритм действий. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Босанудың басталу белгілері, жалған толғақ және әрекет алгоритмі. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Signs of labor, false contractions, and a clear action plan. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда звонить 103",
+                "kk": "103-ке қашан қоңырау шалу керек",
+                "en": "When to call 103"
+              },
+              "body": {
+                "ru": "При сильном кровотечении, зелёных водах, резкой боли или отсутствии возможности доехать самостоятельно вызывайте 103 сразу. Сообщите срок беременности, адрес и характер симптомов.",
+                "kk": "Қатты қан кету, жасыл түсті қағанақ суы, қатты ауырсыну немесе өз бетіңізбен жете алмау жағдайында 103-ке бірден қоңырау шалыңыз. Жүктілік мерзімін, мекенжайды және белгілерді нақты айтыңыз.",
+                "en": "Call 103 immediately for heavy bleeding, green amniotic fluid, severe pain, or if you cannot travel safely. Share gestational week, address, and symptoms clearly."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Держите таймер схваток, документы и заряженный телефон в одном месте с 36-й недели. Обсудите с партнёром, кто ведёт машину, а кто общается с роддомом.",
+                "kk": "36-аптадан бастап толғақ таймерін, құжаттар мен қуаты бар телефонды бір жерде ұстаңыз. Серіктеспен кім көлік айдайтынын және кім перзентханамен сөйлесетінін алдын ала келісіңіз.",
+                "en": "From week 36, keep contraction timer access, documents, and a charged phone ready. Decide in advance who drives and who talks to the hospital."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-11-q1",
+                "text": {
+                  "ru": "Что из перечисленного — повод срочно ехать в роддом?",
+                  "kk": "Төмендегінің қайсысы перзентханаға шұғыл баруға себеп?",
+                  "en": "Which of these means you should go to the hospital urgently?"
+                },
+                "options": [
+                  {
+                    "ru": "Отхождение вод",
+                    "kk": "Қағанақ суының кетуі",
+                    "en": "Water breaking"
+                  },
+                  {
+                    "ru": "Обычная изжога",
+                    "kk": "Кәдімгі қыжыл",
+                    "en": "Regular heartburn"
+                  },
+                  {
+                    "ru": "Хорошее настроение",
+                    "kk": "Жақсы көңіл күй",
+                    "en": "Good mood"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-12",
+          "order": 12,
+          "phase": "birth",
+          "phase_label": {
+            "ru": "Роды",
+            "kk": "Босану",
+            "en": "Birth"
+          },
+          "title": {
+            "ru": "Что происходит в родзале",
+            "kk": "Босану залында не болады",
+            "en": "What happens in the delivery room"
+          },
+          "duration_min": 17,
+          "is_premium": false,
+          "summary": {
+            "ru": "Этапы родов, обезболивание, роль партнёра и ваши права.",
+            "kk": "Босану кезеңдері, ауырсынуды басу, серіктестің рөлі және құқықтарыңыз.",
+            "en": "Labor stages, pain relief, partner role, and your rights."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Этапы",
+                "kk": "Кезеңдер",
+                "en": "Stages"
+              },
+              "body": {
+                "ru": "Раскрытие, потуги, рождение малыша и послед. Врачи следят за вами и ребёнком на каждом этапе.",
+                "kk": "Босану кезеңдері: жатыр мойнының ашылуы, күшену, сәбидің тууы және қағанақтың шығуы. Дәрігерлер әр кезеңде сіз бен бала жағдайын бақылайды.",
+                "en": "Labor stages include dilation, pushing, birth of the baby, and delivery of the placenta. Medical staff monitor both you and your baby throughout."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Обезболивание",
+                "kk": "Ауырсынуды басу",
+                "en": "Pain relief"
+              },
+              "body": {
+                "ru": "Варианты обсуждаются с врачом: дыхание, эпидуральная анестезия и другие методы — в зависимости от показаний роддома.",
+                "kk": "Ауырсынуды басу тәсілдері дәрігермен талқыланады: тыныс алу әдістері, эпидуралды анестезия және басқа нұсқалар — перзентхана көрсеткішіне қарай.",
+                "en": "Pain relief options are discussed with your doctor: breathing techniques, epidural anesthesia, and other methods depending on clinical indications."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "При схватках, отхождении вод или кровотечении — звоните врачу или 103. Держите телефон заряженным и документы под рукой.",
+                "kk": "Қысу, су ағу немесе қан кету кезінде дәрігерге немесе 103-ке қоңырау шалыңыз. Телефон зарядталған, құжаттар қолда болсын.",
+                "en": "If you have contractions, leaking fluid, or bleeding — call your doctor or 103. Keep your phone charged and documents ready."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Этапы родов, обезболивание, роль партнёра и ваши права. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Босану кезеңдері, ауырсынуды басу, серіктестің рөлі және құқықтарыңыз. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Labor stages, pain relief, partner role, and your rights. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Заранее уточните правила партнёрских родов: справки, анализы и допуск в конкретном роддоме. В государственных учреждениях условия отличаются, поэтому проверяйте требования по телефону и на месте.",
+                "kk": "Серіктеспен босану ережесін алдын ала біліңіз: анықтама, талдаулар және нақты перзентханадағы рұқсат. Мемлекеттік мекемелерде талаптар әртүрлі, сондықтан телефон арқылы да, орнында да нақтылаңыз.",
+                "en": "Confirm partner birth rules in advance, including certificates and tests for your specific hospital. Requirements differ across public facilities, so verify by phone and on-site."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Составьте короткий план родов: предпочтения по обезболиванию, контакту с малышом и информированию партнёра. Передайте копию врачу и партнёру, чтобы все знали ваши пожелания.",
+                "kk": "Қысқа босану жоспарын жазыңыз: ауырсынуды басу, сәбимен алғашқы байланыс және серіктеске ақпарат беру қалауы. Көшірмесін дәрігер мен серіктеске беріп, барлығы тілегіңізді білгені дұрыс.",
+                "en": "Prepare a short birth plan with pain relief preferences, early bonding wishes, and partner communication. Share copies with your doctor and partner."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-12-q1",
+                "text": {
+                  "ru": "Кто решает способ обезболивания?",
+                  "kk": "Ауырсынуды басу тәсілін кім шешеді?",
+                  "en": "Who decides the pain relief method?"
+                },
+                "options": [
+                  {
+                    "ru": "Врач совместно с вами по показаниям",
+                    "kk": "Көрсеткішке сай дәрігер сізбен бірге",
+                    "en": "Doctor together with you based on indications"
+                  },
+                  {
+                    "ru": "Только акушерка без обсуждения",
+                    "kk": "Талқылаусыз тек акушер",
+                    "en": "Only midwife without discussion"
+                  },
+                  {
+                    "ru": "Никто, терпеть обязательно",
+                    "kk": "Ешкім, міндетті түрде төзу керек",
+                    "en": "No one, you must endure pain"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-13",
+          "order": 13,
+          "phase": "infant",
+          "phase_label": {
+            "ru": "Младенчество",
+            "kk": "Нәрестелік кезең",
+            "en": "Infancy"
+          },
+          "title": {
+            "ru": "Первые 7 дней дома",
+            "kk": "Үйдегі алғашқы 7 күн",
+            "en": "First 7 days at home"
+          },
+          "duration_min": 13,
+          "is_premium": false,
+          "summary": {
+            "ru": "Пупок, температура, плач и когда вызывать педиатра.",
+            "kk": "Кіндік, температура, жылау және қашан педиатр шақыру керек.",
+            "en": "Cord care, temperature, crying, and when to call a pediatrician."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Наблюдение",
+                "kk": "Бақылау",
+                "en": "Monitoring"
+              },
+              "body": {
+                "ru": "Следите за температурой, цветом кожи, частотой мочеиспусканий и стулом. Плановый визит педиатра обычно на 3–7 день.",
+                "kk": "Нәрестенің температурасын, тері түсін, зәр шығару жиілігін және үлкен дәретін бақылаңыз. Жоспарлы педиатр қарауы әдетте 3–7-күні өтеді.",
+                "en": "Monitor temperature, skin color, urination frequency, and stool. A routine pediatric visit is usually scheduled around days 3-7."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Срочно к врачу",
+                "kk": "Шұғыл дәрігерге",
+                "en": "Urgent medical care"
+              },
+              "body": {
+                "ru": "Температура 38°C+, отказ от еды, вялость, пожелтение кожи, кровь в стуле — немедленно звоните педиатру или 103.",
+                "kk": "38°C+ қызу, тамақтан бас тарту, әлсіздік, терінің сарғаюы немесе нәжісте қан болса, педиатрға не 103-ке бірден қоңырау шалыңыз.",
+                "en": "For fever 38C+, refusal to feed, lethargy, yellowing skin, or blood in stool, call your pediatrician or 103 immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за температурой, сном и кормлением малыша. Плановые визиты к педиатру — по графику. При ухудшении состояния — сразу к врачу.",
+                "kk": "Сәбидің температурасы, ұйқысы мен тамақтануын бақылаңыз. Педиатрға жоспарлы бару кестесін ұстаныңыз. Жағдай нашарласа — дереу дәрігерге.",
+                "en": "Monitor your baby's temperature, sleep, and feeding. Keep pediatric visits on schedule. If condition worsens — see a doctor immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Пупок, температура, плач и когда вызывать педиатра. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Кіндік, температура, жылау және қашан педиатр шақыру керек. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Cord care, temperature, crying, and when to call a pediatrician. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда звонить 103",
+                "kk": "103-ке қашан қоңырау шалу керек",
+                "en": "When to call 103"
+              },
+              "body": {
+                "ru": "У новорождённого вызывайте 103 при температуре 38°C и выше, выраженной вялости, затруднённом дыхании или судорогах. Не давайте лекарства без назначения педиатра.",
+                "kk": "Жаңа туған нәрестеде температура 38°C және одан жоғары, айқын әлсіздік, тыныс алудың қиындауы немесе құрысу болса 103-ке қоңырау шалыңыз. Педиатрсыз дәрі бермеңіз.",
+                "en": "Call 103 for a newborn with fever 38C+, marked lethargy, breathing difficulty, or seizures. Do not give medicines without pediatric advice."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "После выписки уточните график патронажа и контакты участкового педиатра в вашей поликлинике. Подготовьте дома термометр, чистую воду и удобное место для осмотра малыша.",
+                "kk": "Шыққаннан кейін өз емханаңыздағы патронаж кестесін және учаскелік педиатр байланысын нақтылаңыз. Үйде термометр, таза су және сәбиді қарауға ыңғайлы орынды дайындаңыз.",
+                "en": "After discharge, confirm home-visit schedule and district pediatrician contacts at your clinic. Keep a thermometer, clean water, and a simple exam space ready at home."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-13-q1",
+                "text": {
+                  "ru": "Когда нужна срочная помощь новорождённому?",
+                  "kk": "Жаңа туған нәрестеге қашан шұғыл көмек керек?",
+                  "en": "When does a newborn need urgent help?"
+                },
+                "options": [
+                  {
+                    "ru": "Температура 38°C и выше",
+                    "kk": "Температура 38°C және жоғары",
+                    "en": "Temperature of 38C or higher"
+                  },
+                  {
+                    "ru": "Спокойный сон после кормления",
+                    "kk": "Емізгеннен кейін тыныш ұйқы",
+                    "en": "Calm sleep after feeding"
+                  },
+                  {
+                    "ru": "Периодическое икание",
+                    "kk": "Ара-тұра ықылық",
+                    "en": "Occasional hiccups"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-14",
+          "order": 14,
+          "phase": "infant",
+          "phase_label": {
+            "ru": "Младенчество",
+            "kk": "Нәрестелік кезең",
+            "en": "Infancy"
+          },
+          "title": {
+            "ru": "Грудное вскармливание",
+            "kk": "Емшекпен қоректендіру",
+            "en": "Breastfeeding"
+          },
+          "duration_min": 15,
+          "is_premium": false,
+          "summary": {
+            "ru": "Прикладывание, режим, боль в груди и когда звать консультанта.",
+            "kk": "Дұрыс ему, жиілік, кеуде ауырсынуы және кеңесшіге қашан жүгіну керек.",
+            "en": "Latch, feeding rhythm, breast pain, and when to seek support."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Правильное прикладывание",
+                "kk": "Дұрыс емізуге жатқызу",
+                "en": "Proper latch"
+              },
+              "body": {
+                "ru": "Малыш захватывает не только сосок, но и ареолу. Боль не должна быть сильной — при трещинах обратитесь к консультанту по ГВ.",
+                "kk": "Сәби тек емізікті емес, ареоланы да қамтуы керек. Қатты ауырсыну болмауы тиіс — жарықтар болса, емізу жөніндегі маманға жүгініңіз.",
+                "en": "A proper latch means the baby takes not only the nipple but also part of the areola. Pain should not be severe; seek lactation help if cracks appear."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Частота",
+                "kk": "Жиілігі",
+                "en": "Frequency"
+              },
+              "body": {
+                "ru": "Кормление по требованию — норма. Следите за мочеиспусканиями: к концу первой недели обычно не менее 6 мокрых подгузников в сутки.",
+                "kk": "Сұраныс бойынша емізу қалыпты. Зәр шығаруын бақылаңыз: бірінші аптаның соңына қарай тәулігіне кемінде 6 дымқыл жөргек болуы керек.",
+                "en": "Feeding on demand is normal. Track wet diapers: by the end of the first week, at least 6 wet diapers per day is typical."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за температурой, сном и кормлением малыша. Плановые визиты к педиатру — по графику. При ухудшении состояния — сразу к врачу.",
+                "kk": "Сәбидің температурасы, ұйқысы мен тамақтануын бақылаңыз. Педиатрға жоспарлы бару кестесін ұстаныңыз. Жағдай нашарласа — дереу дәрігерге.",
+                "en": "Monitor your baby's temperature, sleep, and feeding. Keep pediatric visits on schedule. If condition worsens — see a doctor immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Прикладывание, режим, боль в груди и когда звать консультанта. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Дұрыс ему, жиілік, кеуде ауырсынуы және кеңесшіге қашан жүгіну керек. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Latch, feeding rhythm, breast pain, and when to seek support. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Первые дни кормите по требованию и следите за признаками эффективного сосания: слышно глотание, грудь мягче после кормления. При боли и трещинах обратитесь к консультанту по ГВ или педиатру.",
+                "kk": "Алғашқы күндері бала сұраған сайын емізіп, тиімді ему белгілерін бақылаңыз: жұтыну естіледі, емізгеннен кейін кеуде жұмсарады. Ауырсыну мен жарықтар болса, емізу кеңесшісіне не педиатрға жүгініңіз.",
+                "en": "Feed on demand in the first days and watch for effective sucking signs: audible swallowing and softer breast after feeds. If pain or cracks appear, contact a lactation consultant or pediatrician."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "В поликлиниках и перинатальных центрах можно найти специалистов по грудному вскармливанию, в том числе на казахском языке. Уточняйте, какие консультации доступны бесплатно по ОСМС.",
+                "kk": "Емханалар мен перинаталдық орталықтарда қазақ тілінде де кеңес беретін емізу мамандарын табуға болады. ОСМС бойынша қай кеңестер тегін екенін алдын ала нақтылаңыз.",
+                "en": "Clinics and perinatal centers often provide breastfeeding support, including in Kazakh. Ask which consultations are covered by OSMS."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-14-q1",
+                "text": {
+                  "ru": "Сколько мокрых подгузников в сутки — хороший признак на 7-й день?",
+                  "kk": "7-күні тәулігіне қанша дымқыл жөргек жақсы белгі?",
+                  "en": "How many wet diapers per day is a good sign on day 7?"
+                },
+                "options": [
+                  {
+                    "ru": "Не менее 6",
+                    "kk": "Кемінде 6",
+                    "en": "At least 6"
+                  },
+                  {
+                    "ru": "1–2",
+                    "kk": "1-2",
+                    "en": "1-2"
+                  },
+                  {
+                    "ru": "Ноль",
+                    "kk": "Нөл",
+                    "en": "Zero"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "m-15",
+          "order": 15,
+          "phase": "infant",
+          "phase_label": {
+            "ru": "Младенчество",
+            "kk": "Нәрестелік кезең",
+            "en": "Infancy"
+          },
+          "title": {
+            "ru": "Послеродовое восстановление",
+            "kk": "Босанғаннан кейінгі қалпына келу",
+            "en": "Postpartum recovery"
+          },
+          "duration_min": 14,
+          "is_premium": false,
+          "summary": {
+            "ru": "Тело после родов, настроение, послеродовая депрессия и помощь близких.",
+            "kk": "Босанғаннан кейінгі дене, көңіл күй, босанудан кейінгі депрессия және жақындардың көмегі.",
+            "en": "Body recovery, mood changes, postpartum depression, and support."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Тело",
+                "kk": "Дене",
+                "en": "Body"
+              },
+              "body": {
+                "ru": "Выделения, боль в швах, грудь — всё это обсуждайте с врачом на осмотрах. Не поднимайте тяжести, отдыхайте.",
+                "kk": "Бөлінді, тігіс ауыруы, кеуде жайсыздығының бәрін тексеруде дәрігермен талқылаңыз. Ауыр зат көтермей, көбірек демалыңыз.",
+                "en": "Discuss discharge, suture pain, and breast discomfort with your doctor at follow-ups. Avoid heavy lifting and prioritize rest."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Настроение",
+                "kk": "Көңіл күй",
+                "en": "Mood"
+              },
+              "body": {
+                "ru": "Плаксивость в первые дни — бывает. Если тревога, апатия или раздражение держатся больше двух недель — обратитесь к врачу.",
+                "kk": "Алғашқы күндері жылауықтық болуы мүмкін. Егер уайым, енжарлық не ашушаңдық екі аптадан ұзақ сақталса, дәрігерге көрініңіз.",
+                "en": "Tearfulness in the first days can happen. If anxiety, apathy, or irritability lasts more than two weeks, see a doctor."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за температурой, сном и кормлением малыша. Плановые визиты к педиатру — по графику. При ухудшении состояния — сразу к врачу.",
+                "kk": "Сәбидің температурасы, ұйқысы мен тамақтануын бақылаңыз. Педиатрға жоспарлы бару кестесін ұстаныңыз. Жағдай нашарласа — дереу дәрігерге.",
+                "en": "Monitor your baby's temperature, sleep, and feeding. Keep pediatric visits on schedule. If condition worsens — see a doctor immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Тело после родов, настроение, послеродовая депрессия и помощь близких. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Босанғаннан кейінгі дене, көңіл күй, босанудан кейінгі депрессия және жақындардың көмегі. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Body recovery, mood changes, postpartum depression, and support. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Планируйте отдых как обязательную задачу: короткий сон днём и помощь по дому от семьи. Если грусть, тревога или раздражительность держатся больше двух недель, обратитесь к врачу.",
+                "kk": "Демалысты міндетті жоспар ретінде қарастырыңыз: күндіз қысқа ұйқы және отбасының үй шаруасына көмегі. Қайғы, уайым не ашуланшақтық екі аптадан ұзақ болса, дәрігерге көрініңіз.",
+                "en": "Treat rest as a required task: short daytime sleep and household help from family. If sadness, anxiety, or irritability lasts over two weeks, seek medical care."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "На послеродовом осмотре в ЖК обсудите не только физическое восстановление, но и эмоциональное состояние. При выраженном ухудшении состояния и мыслях о самоповреждении срочно звоните 103.",
+                "kk": "ЖК-дағы босанғаннан кейінгі тексеруде тек дене қалпына келуін емес, эмоциялық жағдайды да талқылаңыз. Жағдай қатты нашарлап, өзіне зиян келтіру ойы болса, шұғыл 103-ке қоңырау шалыңыз.",
+                "en": "At postpartum follow-up, discuss both physical recovery and emotional state. If you feel severely worse or have self-harm thoughts, call 103 urgently."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "m-15-q1",
+                "text": {
+                  "ru": "Когда стоит обратиться по поводу настроения после родов?",
+                  "kk": "Босанғаннан кейін көңіл күй бойынша қашан көмекке жүгіну керек?",
+                  "en": "When should you seek help for postpartum mood changes?"
+                },
+                "options": [
+                  {
+                    "ru": "Если тяжёлые чувства длятся больше 2 недель",
+                    "kk": "Ауыр сезімдер 2 аптадан ұзақ болса",
+                    "en": "If severe feelings last more than 2 weeks"
+                  },
+                  {
+                    "ru": "Никогда",
+                    "kk": "Ешқашан",
+                    "en": "Never"
+                  },
+                  {
+                    "ru": "Только через год",
+                    "kk": "Тек бір жылдан кейін",
+                    "en": "Only after one year"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "father",
+      "title": {
+        "ru": "Курс для папы",
+        "kk": "Әкеге арналған курс",
+        "en": "Course for fathers"
+      },
+      "subtitle": {
+        "ru": "Поддержка партнёрши от планирования до первых месяцев",
+        "kk": "Жоспарлаудан бастап алғашқы айларға дейін серіктеске қолдау",
+        "en": "Support for your partner from planning to early months"
+      },
+      "color": "#2f6db0",
+      "chapters": [
+        {
+          "id": "f-01",
+          "order": 1,
+          "phase": "planning",
+          "phase_label": {
+            "ru": "Планирование",
+            "kk": "Жоспарлау",
+            "en": "Planning"
+          },
+          "title": {
+            "ru": "Роль отца до беременности",
+            "kk": "Жүктілікке дейін әкенің рөлі",
+            "en": "Father's role before pregnancy"
+          },
+          "duration_min": 9,
+          "is_premium": false,
+          "summary": {
+            "ru": "Совместный визит к врачу, отказ от вредных привычек, эмоциональная поддержка.",
+            "kk": "Дәрігерге бірге бару, зиянды әдеттерден бас тарту, эмоциялық қолдау.",
+            "en": "Joint doctor visits, healthier habits, and emotional support."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Быть в команде",
+                "kk": "Бір команда болу",
+                "en": "Be a team"
+              },
+              "body": {
+                "ru": "Планирование — общая задача. Сходите вместе на консультацию, обсудите финансы, быт и ожидания от родительства.",
+                "kk": "Жоспарлау — ортақ міндет. Кеңеске бірге барып, қаржы, тұрмыс және ата-ана болуға қатысты күтулерді талқылаңыз.",
+                "en": "Planning is a shared task. Attend consultations together and discuss finances, daily life, and expectations about parenthood."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Запишите вопросы врачу заранее. Возьмите результаты прошлых анализов. Обсудите с партнёром ожидания от родов и первых месяцев.",
+                "kk": "Сұрақтарды алдын ала жазып алыңыз. Ескі талдау нәтижелерін алыңыз. Босану мен алғашқы айлар туралы серіктесіңізбен сөйлесіңіз.",
+                "en": "Write questions for your doctor in advance. Bring previous test results. Discuss birth and early months with your partner."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Совместный визит к врачу, отказ от вредных привычек, эмоциональная поддержка. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Дәрігерге бірге бару, зиянды әдеттерден бас тарту, эмоциялық қолдау. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Joint doctor visits, healthier habits, and emotional support. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Совместно прикрепитесь к поликлинике и проверьте, где удобно проходить обследования по ОСМС. Поддержка папы с первых визитов в ЖК снижает стресс у партнёрши.",
+                "kk": "Емханаға бірге тіркеліп, ОСМС бойынша тексерулерді қай жерде ыңғайлы өтуге болатынын анықтаңыз. ЖК-ға алғашқы барулардан бастап әкенің қолдауы серіктестің күйзелісін азайтады.",
+                "en": "Attach to a clinic together and check where OSMS-covered exams are easiest. Father support from the first visits reduces partner stress."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Возьмите на себя организацию: записи, транспорт и напоминания о приёмах. Регулярно спрашивайте, какая помощь сейчас самая нужная, вместо догадок.",
+                "kk": "Ұйымдастыруды өз мойныңызға алыңыз: жазылу, көлік және қабылдау еске салғыштары. Болжам жасамай, дәл қазір қандай көмек керек екенін тұрақты сұрап отырыңыз.",
+                "en": "Handle logistics: booking, transport, and appointment reminders. Ask regularly what support is most useful now instead of guessing."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-01-q1",
+                "text": {
+                  "ru": "Что помогает партнёрше на этапе планирования?",
+                  "kk": "Жоспарлау кезеңінде серіктеске не көмектеседі?",
+                  "en": "What helps your partner during the planning stage?"
+                },
+                "options": [
+                  {
+                    "ru": "Совместное участие и поддержка",
+                    "kk": "Бірге қатысу және қолдау",
+                    "en": "Joint involvement and support"
+                  },
+                  {
+                    "ru": "Полное отстранение",
+                    "kk": "Толық алшақтау",
+                    "en": "Complete detachment"
+                  },
+                  {
+                    "ru": "Только советы из чатов",
+                    "kk": "Тек чаттағы кеңестер",
+                    "en": "Only chat advice"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-02",
+          "order": 2,
+          "phase": "planning",
+          "phase_label": {
+            "ru": "Планирование",
+            "kk": "Жоспарлау",
+            "en": "Planning"
+          },
+          "title": {
+            "ru": "Финансы и быт заранее",
+            "kk": "Қаржы мен тұрмысты алдын ала жоспарлау",
+            "en": "Plan finances and home routine early"
+          },
+          "duration_min": 10,
+          "is_premium": false,
+          "summary": {
+            "ru": "Бюджет на беременность, роды и первые месяцы — что учесть.",
+            "kk": "Жүктілікке, босануға және алғашқы айларға бюджет — нені ескеру керек.",
+            "en": "Budget for pregnancy, birth, and first months: key points."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Расходы",
+                "kk": "Шығындар",
+                "en": "Expenses"
+              },
+              "body": {
+                "ru": "Анализы, витамины, одежда для беременной, роддом, коляска, кроватка. Составьте простой список и приоритеты.",
+                "kk": "Талдаулар, витаминдер, жүктіге киім, перзентхана, арба, бесік шығындарын есептеңіз. Қарапайым тізім жасап, басымдықтарды белгілеңіз.",
+                "en": "Include tests, vitamins, maternity clothing, hospital costs, stroller, and crib in your budget. Create a simple list with priorities."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Подушка безопасности",
+                "kk": "Қаржылық қор",
+                "en": "Emergency fund"
+              },
+              "body": {
+                "ru": "Отложите сумму на непредвиденные расходы. Часть вещей можно взять в аренду или купить б/у.",
+                "kk": "Күтпеген шығындарға арнап қаржы қорын бөлек жинаңыз. Кейбір заттарды жалға алуға немесе қолданыста болғанын алуға болады.",
+                "en": "Set aside an emergency fund for unexpected expenses. Some items can be rented or bought second-hand."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Запишите вопросы врачу заранее. Возьмите результаты прошлых анализов. Обсудите с партнёром ожидания от родов и первых месяцев.",
+                "kk": "Сұрақтарды алдын ала жазып алыңыз. Ескі талдау нәтижелерін алыңыз. Босану мен алғашқы айлар туралы серіктесіңізбен сөйлесіңіз.",
+                "en": "Write questions for your doctor in advance. Bring previous test results. Discuss birth and early months with your partner."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Бюджет на беременность, роды и первые месяцы — что учесть. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Жүктілікке, босануға және алғашқы айларға бюджет — нені ескеру керек. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Budget for pregnancy, birth, and first months: key points. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Разделите бюджет на обязательные и гибкие траты: медицинские услуги, транспорт, питание и вещи для малыша. Заранее отметьте, что можно получить по ГОБМП/ОСМС, а что оплачивается отдельно.",
+                "kk": "Бюджетті міндетті және икемді шығындарға бөліңіз: медицина, көлік, тамақ және сәбиге заттар. ГОБМП/ОСМС бойынша не алынатынын және не бөлек төленетінін алдын ала белгілеңіз.",
+                "en": "Split your budget into fixed and flexible costs: medical, transport, food, and baby items. Mark what is covered by GOBMP/OSMS and what is out-of-pocket."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Сравните цены в аптеках и маркетплейсах по крупным покупкам, но не экономьте на безопасности автокресла и кроватки. Сохраните финансовый резерв минимум на 2-3 месяца после родов.",
+                "kk": "Ірі сатып алуларда дәріхана мен маркетплейс бағасын салыстырыңыз, бірақ автокресло мен бесік қауіпсіздігінен үнемдемеңіз. Босанғаннан кейін кемі 2-3 айға жететін қаржылық қор сақтаңыз.",
+                "en": "Compare prices across pharmacies and marketplaces, but do not compromise safety for car seat and crib. Keep an emergency reserve for at least 2-3 months postpartum."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-02-q1",
+                "text": {
+                  "ru": "Что разумно сделать до рождения ребёнка?",
+                  "kk": "Бала туылғанға дейін не істеу орынды?",
+                  "en": "What is wise to do before the baby is born?"
+                },
+                "options": [
+                  {
+                    "ru": "Составить бюджет и список покупок",
+                    "kk": "Бюджет пен сатып алу тізімін жасау",
+                    "en": "Make a budget and shopping list"
+                  },
+                  {
+                    "ru": "Купить всё в последний день",
+                    "kk": "Бәрін соңғы күні сатып алу",
+                    "en": "Buy everything on the last day"
+                  },
+                  {
+                    "ru": "Не планировать ничего",
+                    "kk": "Ештеңе жоспарламау",
+                    "en": "Do not plan anything"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-03",
+          "order": 3,
+          "phase": "trimester-1",
+          "phase_label": {
+            "ru": "1 триместр",
+            "kk": "1 триместр",
+            "en": "1st trimester"
+          },
+          "title": {
+            "ru": "Помощь при токсикозе",
+            "kk": "Токсикоз кезінде көмек",
+            "en": "Helping during nausea"
+          },
+          "duration_min": 11,
+          "is_premium": false,
+          "summary": {
+            "ru": "Практические действия: вода, еда, быт и когда звать врача.",
+            "kk": "Практикалық көмек: су, тамақ, үй шаруасы және қашан дәрігер шақыру керек.",
+            "en": "Practical actions: hydration, food, chores, and warning signs."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Дома",
+                "kk": "Үйде",
+                "en": "At home"
+              },
+              "body": {
+                "ru": "Держите воду и лёгкие перекусы, берите на себя готовку и уборку, не обесценивайте самочувствие партнёрши.",
+                "kk": "Су мен жеңіл тіскебасарды дайындап қойыңыз, ас дайындау мен тазалықты өз мойныңызға алыңыз, серіктестің жағдайын елемей қалдырмаңыз.",
+                "en": "Keep water and light snacks available, take over cooking and cleaning, and do not dismiss how your partner feels."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда тревожно",
+                "kk": "Мазасыздық болғанда",
+                "en": "When concerned"
+              },
+              "body": {
+                "ru": "Если рвота много раз в день, мало мочи, слабость — это повод к врачу, возможно к капельницам.",
+                "kk": "Егер құсу күніне көп қайталанып, зәр азайып, әлсіздік болса, дәрігерге қаралу қажет, кейде тамшылатқыш керек болуы мүмкін.",
+                "en": "If vomiting is frequent, urine is low, and weakness appears, seek medical care; IV fluids may be needed."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Встаньте на учёт в женской консультации. Уточните график анализов и УЗИ. Держите под рукой телефон врача и номер 103.",
+                "kk": "Әйелдер консультациясында есепке тұрыңыз. Талдау мен УДЗ кестесін нақтылаңыз. Дәрігер телефоны мен 103 нөмірін жанында ұстаңыз.",
+                "en": "Register at the women's clinic. Confirm your test and ultrasound schedule. Keep your doctor's number and 103 handy."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Практические действия: вода, еда, быт и когда звать врача. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Практикалық көмек: су, тамақ, үй шаруасы және қашан дәрігер шақыру керек. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Practical actions: hydration, food, chores, and warning signs. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда звонить 103",
+                "kk": "103-ке қашан қоңырау шалу керек",
+                "en": "When to call 103"
+              },
+              "body": {
+                "ru": "Если рвота частая, почти нет мочи, выраженная слабость или головокружение, не ждите следующего дня — звоните 103 или везите в стационар. Сообщите срок беременности и длительность симптомов.",
+                "kk": "Құсу жиілеп, зәр азайса, қатты әлсіздік не бас айналу болса, ертеңге қалдырмай 103-ке қоңырау шалыңыз немесе стационарға апарыңыз. Жүктілік мерзімін және белгілер қанша уақыттан бері барын айтыңыз.",
+                "en": "If vomiting is frequent, urine output is very low, or severe weakness/dizziness appears, do not wait until tomorrow: call 103 or go to hospital. Report gestational age and symptom duration."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Подготовьте дома «анти-токсикоз» набор: вода, сухие перекусы, пакеты и салфетки у кровати. Возьмите на себя запахо-нагруженные дела, например готовку и бытовую химию.",
+                "kk": "Үйде «токсикозға қарсы» жиынтық дайындаңыз: су, құрғақ тіскебасар, пакет пен майлықты төсектің жанына қойыңыз. Ас дайындау мен тұрмыстық химия сияқты иісі күшті істерді өзіңіз атқарыңыз.",
+                "en": "Prepare an anti-nausea home kit with water, dry snacks, bags, and tissues near the bed. Take over smell-heavy chores like cooking and cleaning chemicals."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-03-q1",
+                "text": {
+                  "ru": "Как лучше реагировать на токсикоз?",
+                  "kk": "Токсикозға қалай дұрыс әрекет ету керек?",
+                  "en": "What is the best response to severe nausea?"
+                },
+                "options": [
+                  {
+                    "ru": "Помочь с бытом и следить за обезвоживанием",
+                    "kk": "Үй шаруасына көмектесіп, сусыздануды бақылау",
+                    "en": "Help with chores and watch for dehydration"
+                  },
+                  {
+                    "ru": "Сказать «все так ходят»",
+                    "kk": "«Бәрі осылай өтеді» деп айту",
+                    "en": "Say 'everyone goes through it'"
+                  },
+                  {
+                    "ru": "Игнорировать жалобы",
+                    "kk": "Шағымды елемеу",
+                    "en": "Ignore complaints"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-04",
+          "order": 4,
+          "phase": "trimester-1",
+          "phase_label": {
+            "ru": "1 триместр",
+            "kk": "1 триместр",
+            "en": "1st trimester"
+          },
+          "title": {
+            "ru": "Визиты к врачу вместе",
+            "kk": "Дәрігерге бірге бару",
+            "en": "Doctor visits together"
+          },
+          "duration_min": 10,
+          "is_premium": false,
+          "summary": {
+            "ru": "Какие обследования проходят и как помочь на приёме.",
+            "kk": "Қандай тексерулер жасалады және қабылдауда қалай көмектесуге болады.",
+            "en": "What checks are done and how to support during appointments."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Ваша роль",
+                "kk": "Сіздің рөліңіз",
+                "en": "Your role"
+              },
+              "body": {
+                "ru": "Записывайте назначения, задавайте вопросы, помогайте с очередями и дорогой. Ваше присутствие снижает стресс.",
+                "kk": "Тағайындауларды жазып, сұрақ қойып, кезек пен жолда көмектесіңіз. Сіздің бірге болуыңыз күйзелісті азайтады.",
+                "en": "Write down prescriptions, ask questions, and help with queues and transport. Your presence reduces stress."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Встаньте на учёт в женской консультации. Уточните график анализов и УЗИ. Держите под рукой телефон врача и номер 103.",
+                "kk": "Әйелдер консультациясында есепке тұрыңыз. Талдау мен УДЗ кестесін нақтылаңыз. Дәрігер телефоны мен 103 нөмірін жанында ұстаңыз.",
+                "en": "Register at the women's clinic. Confirm your test and ultrasound schedule. Keep your doctor's number and 103 handy."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Какие обследования проходят и как помочь на приёме. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Қандай тексерулер жасалады және қабылдауда қалай көмектесуге болады. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "What checks are done and how to support during appointments. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "На приёмах в ЖК папа может помочь фиксировать назначения и сроки скринингов, чтобы ничего не пропустить. Уточняйте, какие документы или анализы нужно принести на следующий визит.",
+                "kk": "ЖК қабылдауында әке тағайындаулар мен скрининг мерзімдерін жазып, ештеңені өткізіп алмауға көмектесе алады. Келесі визитке қандай құжат не талдау керек екенін нақтылап алыңыз.",
+                "en": "At women’s consultation visits, fathers can track prescriptions and screening dates to avoid missed steps. Confirm what documents or tests are needed for the next visit."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Соберите общий список вопросов перед приёмом и распределите, кто что спрашивает. После визита кратко обсудите план действий и поставьте напоминания в календаре.",
+                "kk": "Қабылдауға дейін ортақ сұрақтар тізімін жасап, кім нені сұрайтынын бөліңіз. Визиттен кейін әрекет жоспарын қысқаша талқылап, күнтізбеге еске салғыш қойыңыз.",
+                "en": "Make a shared question list before appointments and split who asks what. After the visit, review action points and set calendar reminders."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-04-q1",
+                "text": {
+                  "ru": "Зачем папе ходить на приёмы?",
+                  "kk": "Әкеге қабылдауға не үшін бірге барған дұрыс?",
+                  "en": "Why should fathers attend appointments?"
+                },
+                "options": [
+                  {
+                    "ru": "Поддерживать и фиксировать назначения",
+                    "kk": "Қолдап, тағайындауларды жазып алу",
+                    "en": "To support and track prescriptions"
+                  },
+                  {
+                    "ru": "Только для фото",
+                    "kk": "Тек фото үшін",
+                    "en": "Only for photos"
+                  },
+                  {
+                    "ru": "Это не нужно",
+                    "kk": "Бұл қажет емес",
+                    "en": "It is unnecessary"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-05",
+          "order": 5,
+          "phase": "trimester-2",
+          "phase_label": {
+            "ru": "2 триместр",
+            "kk": "2 триместр",
+            "en": "2nd trimester"
+          },
+          "title": {
+            "ru": "Поддержка во 2 триместре",
+            "kk": "2 триместрде қолдау",
+            "en": "Support in the second trimester"
+          },
+          "duration_min": 11,
+          "is_premium": false,
+          "summary": {
+            "ru": "Совместные покупки, массаж, отдых и внимание к настроению.",
+            "kk": "Бірге сатып алу, жеңіл массаж, демалыс және көңіл күйге көңіл бөлу.",
+            "en": "Shared prep, gentle care, rest, and mood support."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Практика",
+                "kk": "Тәжірибе",
+                "en": "Practice"
+              },
+              "body": {
+                "ru": "Помогайте с покупками, готовьте еду, предлагайте прогулки. Спрашивайте, как она себя чувствует — без советов, если не просят.",
+                "kk": "Сатып алуға көмектесіп, тамақ дайындап, серуен ұсыныңыз. Қажет болмаса кеңес бермей, оның халін жаймен сұрап отырыңыз.",
+                "en": "Help with shopping, cook meals, and suggest walks. Check in on how she feels, and avoid giving advice unless asked."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за шевелениями плода. Пейте достаточно воды. Не назначайте витамины и лекарства сами — только по рекомендации врача.",
+                "kk": "Бала қозғалысын бақылаңыз. Жеткілікті су ішіңіз. Дәрі-дәрмек пен витаминдерді өз бетіңізше қабылдамаңыз — тек дәрігер ұсынысы бойынша.",
+                "en": "Track fetal movements. Drink enough water. Do not take vitamins or medicines on your own — only as your doctor recommends."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Совместные покупки, массаж, отдых и внимание к настроению. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Бірге сатып алу, жеңіл массаж, демалыс және көңіл күйге көңіл бөлу. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Shared prep, gentle care, rest, and mood support. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Во втором триместре поддержка лучше работает как рутина: покупки, готовка, вечерние прогулки и спокойный разговор. Старайтесь спрашивать о самочувствии ежедневно без давления и оценок.",
+                "kk": "Екінші триместрде қолдау күнделікті тәртіп ретінде тиімді: сатып алу, ас дайындау, кешкі серуен және сабырлы әңгіме. Қысымсыз және бағалаусыз күн сайын хал-жағдайын сұрап отырыңыз.",
+                "en": "In second trimester, support works best as routine: shopping, cooking, evening walks, and calm check-ins. Ask about wellbeing daily without pressure."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Планируйте визиты и покупки с учётом пробок и очередей, особенно в крупных городах. Если назначены курсы для беременных при поликлинике, помогите выбрать удобный график.",
+                "kk": "Әсіресе ірі қалаларда кептеліс пен кезекті ескеріп, қабылдау мен сатып алуды жоспарлаңыз. Емхана жанындағы жүкті әйелдер курсы тағайындалса, ыңғайлы кесте таңдауға көмектесіңіз.",
+                "en": "Plan visits and shopping with traffic and queues in mind, especially in big cities. If clinic-based pregnancy classes are available, help choose a practical schedule."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-05-q1",
+                "text": {
+                  "ru": "Что лучше во 2 триместре?",
+                  "kk": "2 триместрде қайсысы дұрыс?",
+                  "en": "What is better in the second trimester?"
+                },
+                "options": [
+                  {
+                    "ru": "Слушать и помогать по быту",
+                    "kk": "Тыңдап, үй шаруасына көмектесу",
+                    "en": "Listen and help with daily chores"
+                  },
+                  {
+                    "ru": "Критиковать внешний вид",
+                    "kk": "Сырт келбетін сынау",
+                    "en": "Criticize appearance"
+                  },
+                  {
+                    "ru": "Реже бывать дома",
+                    "kk": "Үйде сирек болу",
+                    "en": "Be at home less often"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-06",
+          "order": 6,
+          "phase": "trimester-2",
+          "phase_label": {
+            "ru": "2 триместр",
+            "kk": "2 триместр",
+            "en": "2nd trimester"
+          },
+          "title": {
+            "ru": "Подготовка дома к малышу",
+            "kk": "Сәбиге үйді дайындау",
+            "en": "Preparing the home for baby"
+          },
+          "duration_min": 12,
+          "is_premium": false,
+          "summary": {
+            "ru": "Кроватка, безопасность, розетки и зона пеленания.",
+            "kk": "Бесік, қауіпсіздік, розеткалар және жөргектеу аймағы.",
+            "en": "Crib setup, safety, outlets, and diapering area."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Безопасность",
+                "kk": "Қауіпсіздік",
+                "en": "Safety"
+              },
+              "body": {
+                "ru": "Закройте острые углы, проверьте крепление мебели, уберите мелкие предметы с пола. Температура в комнате 20–22°C.",
+                "kk": "Өткір бұрыштарды жабыңыз, жиһаз бекітпесін тексеріңіз, ұсақ заттарды еденнен алыңыз. Бөлме температурасы 20–22°C болсын.",
+                "en": "Cover sharp corners, check furniture anchoring, and remove small objects from the floor. Keep room temperature around 20-22C."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за шевелениями плода. Пейте достаточно воды. Не назначайте витамины и лекарства сами — только по рекомендации врача.",
+                "kk": "Бала қозғалысын бақылаңыз. Жеткілікті су ішіңіз. Дәрі-дәрмек пен витаминдерді өз бетіңізше қабылдамаңыз — тек дәрігер ұсынысы бойынша.",
+                "en": "Track fetal movements. Drink enough water. Do not take vitamins or medicines on your own — only as your doctor recommends."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Кроватка, безопасность, розетки и зона пеленания. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Бесік, қауіпсіздік, розеткалар және жөргектеу аймағы. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Crib setup, safety, outlets, and diapering area. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Безопасность",
+                "kk": "Қауіпсіздік",
+                "en": "Safety"
+              },
+              "body": {
+                "ru": "Проверьте крепление мебели к стене, закройте розетки и уберите мелкие предметы с уровня пола. Заранее организуйте ночник и удобное место для пеленания, чтобы не искать вещи в темноте.",
+                "kk": "Жиһазды қабырғаға мықтап бекітіп, розеткаларды жабыңыз және ұсақ заттарды еден деңгейінен алыңыз. Түнгі шам мен жөргектеуге ыңғайлы орынды алдын ала жасап, қараңғыда зат іздемеңіз.",
+                "en": "Secure furniture, cover outlets, and remove small objects from floor level. Set up a night light and diapering station early to avoid chaos at night."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "При покупке автокресла проверяйте сертификаты и возможность установки в вашем автомобиле. Для отопительного сезона заранее контролируйте влажность и проветривание детской комнаты.",
+                "kk": "Автокресло алғанда сертификатын және өз көлігіңізге орнату мүмкіндігін тексеріңіз. Жылыту маусымында балалар бөлмесінің ылғалдылығы мен желдетілуін алдын ала бақылаңыз.",
+                "en": "When buying a car seat, check certifications and fit for your car. During heating season, monitor humidity and ventilation in the baby room."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-06-q1",
+                "text": {
+                  "ru": "Что важно перед появлением малыша дома?",
+                  "kk": "Сәби үйге келмей тұрып не маңызды?",
+                  "en": "What is important before baby arrives home?"
+                },
+                "options": [
+                  {
+                    "ru": "Безопасность и подготовленное место для сна",
+                    "kk": "Қауіпсіздік және дайын ұйқы орны",
+                    "en": "Safety and a prepared sleep space"
+                  },
+                  {
+                    "ru": "Только красивый декор",
+                    "kk": "Тек әдемі декор",
+                    "en": "Only nice decor"
+                  },
+                  {
+                    "ru": "Ничего не менять",
+                    "kk": "Ештеңені өзгертпеу",
+                    "en": "Change nothing"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-07",
+          "order": 7,
+          "phase": "trimester-3",
+          "phase_label": {
+            "ru": "3 триместр",
+            "kk": "3 триместр",
+            "en": "3rd trimester"
+          },
+          "title": {
+            "ru": "План родов: кто, куда, когда",
+            "kk": "Босану жоспары: кім, қайда, қашан",
+            "en": "Birth plan: who, where, when"
+          },
+          "duration_min": 15,
+          "is_premium": false,
+          "summary": {
+            "ru": "Маршрут в роддом, документы, связь и запасной план.",
+            "kk": "Перзентханаға бағыт, құжаттар, байланыс және қосалқы жоспар.",
+            "en": "Route to hospital, documents, communication, and backup plan."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Маршрут",
+                "kk": "Бағыт",
+                "en": "Route"
+              },
+              "body": {
+                "ru": "Определите роддом, дорогу, парковку, кого позвать, если вы за рулём устанете. Телефон заряжен, документы в одной папке.",
+                "kk": "Перзентхананы, жолды, тұрақ орнын және рөлде шаршасаңыз кімді шақыратыныңызды алдын ала анықтаңыз. Телефон қуатталған, құжаттар бір папкада болсын.",
+                "en": "Plan the hospital, route, parking, and backup driver if you get tired. Keep the phone charged and all documents in one folder."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Соберите сумку в роддом к 36-й неделе. Выберите роддом и проложите маршрут. Обсудите план родов с партнёром и врачом.",
+                "kk": "36-аптаға дейін босана үйі сөмкесін жинаңыз. Босана үйін таңдап, маршрутты анықтаңыз. Босану жоспарын серіктес пен дәрігермен талқылаңыз.",
+                "en": "Pack your hospital bag by week 36. Choose a hospital and plan the route. Discuss your birth plan with your partner and doctor."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Маршрут в роддом, документы, связь и запасной план. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Перзентханаға бағыт, құжаттар, байланыс және қосалқы жоспар. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Route to hospital, documents, communication, and backup plan. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Маршрут",
+                "kk": "Бағыт",
+                "en": "Route"
+              },
+              "body": {
+                "ru": "Протестируйте дорогу до роддома в разное время суток и запишите альтернативный путь. Держите в машине воду, зарядку и копии документов в отдельной папке.",
+                "kk": "Перзентханаға дейінгі жолды тәуліктің әр уақытында тексеріп, балама бағытты жазып қойыңыз. Көлікте су, қуаттағыш және құжат көшірмесін бөлек папкада ұстаңыз.",
+                "en": "Test the route to hospital at different times and save a backup path. Keep water, charger, and document copies in the car."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда звонить 103",
+                "kk": "103-ке қашан қоңырау шалу керек",
+                "en": "When to call 103"
+              },
+              "body": {
+                "ru": "Если схватки частые, есть кровотечение или отошли воды, а доехать безопасно не получается, вызывайте 103. Чётко назовите адрес, срок беременности и состояние партнёрши.",
+                "kk": "Толғақ жиілеп, қан кету немесе су кету болып, қауіпсіз жету мүмкін болмаса 103-ке қоңырау шалыңыз. Мекенжайды, жүктілік мерзімін және серіктестің жағдайын нақты айтыңыз.",
+                "en": "If contractions are frequent, bleeding starts, or waters break and safe travel is not possible, call 103. Clearly provide address, gestational age, and current condition."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-07-q1",
+                "text": {
+                  "ru": "Что должно быть готово к 36–37 неделе?",
+                  "kk": "36-37 аптаға дейін не дайын болуы керек?",
+                  "en": "What should be ready by weeks 36-37?"
+                },
+                "options": [
+                  {
+                    "ru": "Сумка и план поездки в роддом",
+                    "kk": "Сөмке және перзентханаға бару жоспары",
+                    "en": "Hospital bag and travel plan"
+                  },
+                  {
+                    "ru": "Только подарки гостям",
+                    "kk": "Тек қонақтарға сыйлық",
+                    "en": "Only gifts for guests"
+                  },
+                  {
+                    "ru": "Ничего, всё в последний день",
+                    "kk": "Ештеңе, бәрі соңғы күні",
+                    "en": "Nothing, do everything last day"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-08",
+          "order": 8,
+          "phase": "trimester-3",
+          "phase_label": {
+            "ru": "3 триместр",
+            "kk": "3 триместр",
+            "en": "3rd trimester"
+          },
+          "title": {
+            "ru": "В роддоме: что делает папа",
+            "kk": "Перзентханада әке не істейді",
+            "en": "In maternity hospital: father’s role"
+          },
+          "duration_min": 13,
+          "is_premium": false,
+          "summary": {
+            "ru": "Поддержка в родзале, связь с родственниками, уход за малышом после родов.",
+            "kk": "Босану залында қолдау, туыстармен байланыс, босанғаннан кейін сәбиге күтім.",
+            "en": "Support in labor, family communication, and newborn care help."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "В родзале",
+                "kk": "Босану залында",
+                "en": "In the delivery room"
+              },
+              "body": {
+                "ru": "Держите за руку, помогайте с дыханием, следите за документами. Уточните заранее, разрешены ли партнёрские роды.",
+                "kk": "Қолынан ұстап, тыныс алуға көмектесіп, құжаттарды қадағалаңыз. Серіктеспен босануға рұқсат бар-жоғын алдын ала нақтылаңыз.",
+                "en": "Hold her hand, support breathing, and manage documents. Confirm in advance whether partner birth is allowed."
+              }
+            },
+            {
+              "heading": {
+                "ru": "После",
+                "kk": "Кейін",
+                "en": "Afterward"
+              },
+              "body": {
+                "ru": "Помогите с первым прикладыванием, сфотографируйте по желанию мамы, не устраивайте поток гостей в первые дни.",
+                "kk": "Алғашқы емізуге көмектесіп, ананың қалауы болса суретке түсіріңіз, алғашқы күндері қонақ ағынын шектеңіз.",
+                "en": "Help with the first latch, take photos if mom wants, and avoid a stream of visitors in the first days."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Соберите сумку в роддом к 36-й неделе. Выберите роддом и проложите маршрут. Обсудите план родов с партнёром и врачом.",
+                "kk": "36-аптаға дейін босана үйі сөмкесін жинаңыз. Босана үйін таңдап, маршрутты анықтаңыз. Босану жоспарын серіктес пен дәрігермен талқылаңыз.",
+                "en": "Pack your hospital bag by week 36. Choose a hospital and plan the route. Discuss your birth plan with your partner and doctor."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Поддержка в родзале, связь с родственниками, уход за малышом после родов. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Босану залында қолдау, туыстармен байланыс, босанғаннан кейін сәбиге күтім. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Support in labor, family communication, and newborn care help. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В родзале",
+                "kk": "Босану залында",
+                "en": "In the delivery room"
+              },
+              "body": {
+                "ru": "Будьте рядом и следуйте инструкциям акушерки: помогайте дышать, поддерживайте контакт и спокойный темп. Ваша задача — снизить тревогу партнёрши и передавать её просьбы персоналу.",
+                "kk": "Акушер нұсқауын орындап, қасында болыңыз: тыныс алуға көмектесіп, байланыс пен сабырлы ырғақты сақтаңыз. Сіздің міндетіңіз — серіктестің уайымын азайтып, өтініштерін персоналға жеткізу.",
+                "en": "Stay close and follow midwife guidance: support breathing, contact, and calm rhythm. Your role is to reduce anxiety and communicate your partner’s needs."
+              }
+            },
+            {
+              "heading": {
+                "ru": "После",
+                "kk": "Кейін",
+                "en": "Afterward"
+              },
+              "body": {
+                "ru": "После родов помогите с бытовыми мелочами, документами и связью с родственниками по согласованию с мамой. В первые сутки лучше ограничить визиты, чтобы мама и малыш восстановились.",
+                "kk": "Босанғаннан кейін анамен келісіп, ұсақ-түйек тұрмыс, құжат және туыстармен байланысқа көмектесіңіз. Алғашқы тәулікте ана мен сәби тынығуы үшін келушілерді шектеген дұрыс.",
+                "en": "After birth, help with small tasks, paperwork, and family updates based on mom’s preference. Limiting visitors in the first day helps recovery for mom and baby."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-08-q1",
+                "text": {
+                  "ru": "Главная задача папы в родзале?",
+                  "kk": "Босану залында әкенің басты міндеті қандай?",
+                  "en": "What is the father’s main task in the delivery room?"
+                },
+                "options": [
+                  {
+                    "ru": "Эмоциональная и практическая поддержка мамы",
+                    "kk": "Ананы эмоциялық және практикалық қолдау",
+                    "en": "Emotional and practical support for mother"
+                  },
+                  {
+                    "ru": "Снимать только для соцсетей",
+                    "kk": "Тек әлеуметтік желіге түсіру",
+                    "en": "Film only for social media"
+                  },
+                  {
+                    "ru": "Уйти домой сразу",
+                    "kk": "Бірден үйге кету",
+                    "en": "Leave home immediately"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-09",
+          "order": 9,
+          "phase": "infant",
+          "phase_label": {
+            "ru": "Младенчество",
+            "kk": "Нәрестелік кезең",
+            "en": "Infancy"
+          },
+          "title": {
+            "ru": "Первый месяц: распределение сил",
+            "kk": "Бірінші ай: күшті бөлу",
+            "en": "First month: sharing the load"
+          },
+          "duration_min": 12,
+          "is_premium": false,
+          "summary": {
+            "ru": "Ночные дежурства, быт, гости и отдых мамы.",
+            "kk": "Түнгі кезекшілік, үй шаруасы, қонақтар және ананың демалысы.",
+            "en": "Night shifts, chores, guests, and mother's recovery time."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Нагрузка",
+                "kk": "Жүктеме",
+                "en": "Workload"
+              },
+              "body": {
+                "ru": "Возьмите на себя готовку, уборку, ночные подъёмы хотя бы через день. Маме нужен сон — это приоритет.",
+                "kk": "Ас дайындау, үй жинау және түнгі тұруды кемінде күнара өзіңізге алыңыз. Анаға ұйқы өте қажет — бұл басымдық.",
+                "en": "Take responsibility for cooking, cleaning, and at least every-other-night wakeups. Mom’s sleep is a priority."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за температурой, сном и кормлением малыша. Плановые визиты к педиатру — по графику. При ухудшении состояния — сразу к врачу.",
+                "kk": "Сәбидің температурасы, ұйқысы мен тамақтануын бақылаңыз. Педиатрға жоспарлы бару кестесін ұстаныңыз. Жағдай нашарласа — дереу дәрігерге.",
+                "en": "Monitor your baby's temperature, sleep, and feeding. Keep pediatric visits on schedule. If condition worsens — see a doctor immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Ночные дежурства, быт, гости и отдых мамы. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Түнгі кезекшілік, үй шаруасы, қонақтар және ананың демалысы. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Night shifts, chores, guests, and mother's recovery time. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Нагрузка",
+                "kk": "Жүктеме",
+                "en": "Workload"
+              },
+              "body": {
+                "ru": "Сделайте график ночных и дневных задач, чтобы мама получала непрерывный сон хотя бы несколько часов. Перераспределяйте обязанности еженедельно, если план не работает.",
+                "kk": "Ана кемінде бірнеше сағат үздіксіз ұйықтауы үшін түнгі және күндізгі міндет кестесін жасаңыз. Жоспар жұмыс істемесе, міндеттерді апта сайын қайта бөліңіз.",
+                "en": "Create a day/night task schedule so mom can get a few uninterrupted sleep hours. Rebalance duties weekly if the plan is not working."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "Если рядом есть бабушки и родственники, заранее определите формат помощи, чтобы избежать конфликтов. По патронажу и плановым визитам держите связь с поликлиникой и педиатром.",
+                "kk": "Жақын жерде ата-әже не туыс болса, жанжал болмас үшін көмек форматын алдын ала келісіңіз. Патронаж және жоспарлы қабылдаулар бойынша емхана мен педиатрмен байланыста болыңыз.",
+                "en": "If grandparents are nearby, agree on clear support boundaries early to avoid tension. Keep regular contact with clinic and pediatrician for home visits and checkups."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-09-q1",
+                "text": {
+                  "ru": "Что важнее всего для мамы в первый месяц?",
+                  "kk": "Бірінші айда ана үшін ең маңыздысы не?",
+                  "en": "What is most important for mom in the first month?"
+                },
+                "options": [
+                  {
+                    "ru": "Сон и поддержка",
+                    "kk": "Ұйқы және қолдау",
+                    "en": "Sleep and support"
+                  },
+                  {
+                    "ru": "Идеальная уборка",
+                    "kk": "Мінсіз тазалық",
+                    "en": "Perfect cleaning"
+                  },
+                  {
+                    "ru": "Гости каждый день",
+                    "kk": "Күнде қонақ",
+                    "en": "Guests every day"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-10",
+          "order": 10,
+          "phase": "infant",
+          "phase_label": {
+            "ru": "Младенчество",
+            "kk": "Нәрестелік кезең",
+            "en": "Infancy"
+          },
+          "title": {
+            "ru": "Купание, пеленание и прогулки",
+            "kk": "Шомылдыру, жөргектеу және серуен",
+            "en": "Bathing, diapering, and walks"
+          },
+          "duration_min": 11,
+          "is_premium": false,
+          "summary": {
+            "ru": "Практические навыки ухода за новорождённым.",
+            "kk": "Жаңа туған нәрестеге күтім жасаудың практикалық дағдылары.",
+            "en": "Hands-on newborn care skills for daily routine."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Купание",
+                "kk": "Шомылдыру",
+                "en": "Bathing"
+              },
+              "body": {
+                "ru": "Тёплая вода, полотенце, одежда рядом. Купайте спокойно, поддерживая голову. Не обязательно каждый день — по рекомендации педиатра.",
+                "kk": "Жылы су, сүлгі және киім қолжетімді жерде болсын. Басын ұстап, сабырмен шомылдырыңыз. Күн сайын шомылдыру міндетті емес — педиатр кеңесіне сай.",
+                "en": "Keep warm water, towel, and clothes nearby. Bathe calmly while supporting the head. Daily bathing is not always necessary; follow pediatric guidance."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Прогулки",
+                "kk": "Серуен",
+                "en": "Walks"
+              },
+              "body": {
+                "ru": "Гуляйте в подходящую погоду, правильно закутывайте малыша. Помогайте с коляской и сумкой.",
+                "kk": "Қолайлы ауа райында серуендеп, сәбиді дұрыс киіндіріңіз. Арба мен сөмкені алып жүруге көмектесіңіз.",
+                "en": "Go for walks in suitable weather and dress the baby appropriately. Help with the stroller and bag."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за температурой, сном и кормлением малыша. Плановые визиты к педиатру — по графику. При ухудшении состояния — сразу к врачу.",
+                "kk": "Сәбидің температурасы, ұйқысы мен тамақтануын бақылаңыз. Педиатрға жоспарлы бару кестесін ұстаныңыз. Жағдай нашарласа — дереу дәрігерге.",
+                "en": "Monitor your baby's temperature, sleep, and feeding. Keep pediatric visits on schedule. If condition worsens — see a doctor immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Практические навыки ухода за новорождённым. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Жаңа туған нәрестеге күтім жасаудың практикалық дағдылары. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Hands-on newborn care skills for daily routine. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практические советы",
+                "kk": "Тәжірибелік кеңестер",
+                "en": "Practical tips"
+              },
+              "body": {
+                "ru": "Подготовьте всё до купания: вода нужной температуры, полотенце, подгузник и одежда в зоне доступа. На прогулку берите запас подгузников, салфетки и дополнительный слой одежды по погоде.",
+                "kk": "Шомылдыруға дейін бәрін дайындаңыз: су температурасы, сүлгі, жөргек және киім қолжетімді жерде болсын. Серуенге қосымша жөргек, майлық және ауа райына сай қосымша киім алыңыз.",
+                "en": "Set up everything before bathing: warm water, towel, diaper, and clothes within reach. For walks, carry spare diapers, wipes, and an extra clothing layer."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Когда звонить 103",
+                "kk": "103-ке қашан қоңырау шалу керек",
+                "en": "When to call 103"
+              },
+              "body": {
+                "ru": "При затруднённом дыхании, высокой температуре или внезапной вялости у малыша звоните 103 немедленно. Не пытайтесь лечить серьёзные симптомы только домашними средствами.",
+                "kk": "Сәбиде тыныс қиындауы, жоғары қызу немесе кенет әлсіздік болса, 103-ке дереу қоңырау шалыңыз. Ауыр белгілерді тек үй тәсілдерімен емдеуге тырыспаңыз.",
+                "en": "Call 103 immediately for breathing difficulty, high fever, or sudden lethargy in baby. Do not rely only on home remedies for serious symptoms."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-10-q1",
+                "text": {
+                  "ru": "Что важно при купании новорождённого?",
+                  "kk": "Жаңа туған нәрестені шомылдырғанда не маңызды?",
+                  "en": "What is important when bathing a newborn?"
+                },
+                "options": [
+                  {
+                    "ru": "Поддержка головы и подготовленные вещи",
+                    "kk": "Басты ұстап тұру және заттарды алдын ала дайындау",
+                    "en": "Head support and prepared supplies"
+                  },
+                  {
+                    "ru": "Холодная вода",
+                    "kk": "Суық су",
+                    "en": "Cold water"
+                  },
+                  {
+                    "ru": "Оставить одного в ванне",
+                    "kk": "Ваннада жалғыз қалдыру",
+                    "en": "Leave baby alone in bath"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-11",
+          "order": 11,
+          "phase": "infant",
+          "phase_label": {
+            "ru": "Младенчество",
+            "kk": "Нәрестелік кезең",
+            "en": "Infancy"
+          },
+          "title": {
+            "ru": "Как помочь с грудным вскармливанием",
+            "kk": "Емізуге қалай көмектесуге болады",
+            "en": "How to support breastfeeding"
+          },
+          "duration_min": 10,
+          "is_premium": false,
+          "summary": {
+            "ru": "Вода, подушки, ночная смена и моральная поддержка.",
+            "kk": "Су, жастық, түнгі көмек және моральдық қолдау.",
+            "en": "Water, pillows, night support, and emotional care."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Практика",
+                "kk": "Тәжірибе",
+                "en": "Practice"
+              },
+              "body": {
+                "ru": "Принесите воды и перекус, подложите подушку, возьмите малыша после кормления для отрыжки. Защищайте маму от лишних советов гостей.",
+                "kk": "Су мен жеңіл ас әкеліп, жастық қойып, емізуден кейін сәбиді кекірту үшін өзіңіз алыңыз. Ананы қонақтардың артық кеңесінен қорғаңыз.",
+                "en": "Bring water and a snack, adjust pillows, and take the baby after feeding for burping. Shield mom from unhelpful advice from visitors."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за температурой, сном и кормлением малыша. Плановые визиты к педиатру — по графику. При ухудшении состояния — сразу к врачу.",
+                "kk": "Сәбидің температурасы, ұйқысы мен тамақтануын бақылаңыз. Педиатрға жоспарлы бару кестесін ұстаныңыз. Жағдай нашарласа — дереу дәрігерге.",
+                "en": "Monitor your baby's temperature, sleep, and feeding. Keep pediatric visits on schedule. If condition worsens — see a doctor immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Вода, подушки, ночная смена и моральная поддержка. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Су, жастық, түнгі көмек және моральдық қолдау. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Water, pillows, night support, and emotional care. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Практика",
+                "kk": "Тәжірибе",
+                "en": "Practice"
+              },
+              "body": {
+                "ru": "Во время кормления создайте спокойную обстановку: вода, удобная подушка, минимум шума и комментариев. После кормления возьмите на себя отрыжку и смену подгузника, чтобы мама могла отдохнуть.",
+                "kk": "Емізу кезінде тыныш орта жасаңыз: су, ыңғайлы жастық, аз шу және артық пікірсіз қолдау. Емізуден кейін кекірту мен жөргек ауыстыруды өзіңіз атқарып, анаға демалыс беріңіз.",
+                "en": "During feeds, create a calm setting with water, good pillow support, and minimal noise. After feeds, handle burping and diaper change so mom can rest."
+              }
+            },
+            {
+              "heading": {
+                "ru": "В Казахстане",
+                "kk": "Қазақстанда",
+                "en": "In Kazakhstan"
+              },
+              "body": {
+                "ru": "При сложностях с ГВ уточните в поликлинике направление к консультанту или педиатру, часть помощи доступна по ОСМС. Не откладывайте обращение, если ребёнок мало набирает вес или кормление болезненное.",
+                "kk": "Емізуде қиындық болса, емханадан кеңесшіге не педиатрға жолдама сұраңыз, көмектің бір бөлігі ОСМС бойынша қолжетімді. Бала салмақты аз қосса немесе емізу ауырсынса, кешіктірмей жүгініңіз.",
+                "en": "If breastfeeding is difficult, ask your clinic for lactation or pediatric support; part may be covered by OSMS. Do not delay if baby gains little weight or feeding is painful."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-11-q1",
+                "text": {
+                  "ru": "Как папа может помочь при ГВ?",
+                  "kk": "Емізу кезінде әке қалай көмектесе алады?",
+                  "en": "How can a father help with breastfeeding?"
+                },
+                "options": [
+                  {
+                    "ru": "Быт, вода и поддержка без критики",
+                    "kk": "Үй шаруасы, су және сынсыз қолдау",
+                    "en": "Chores, water, and non-judgmental support"
+                  },
+                  {
+                    "ru": "Говорить «корми быстрее»",
+                    "kk": "«Тезірек еміз» деп айту",
+                    "en": "Say 'feed faster'"
+                  },
+                  {
+                    "ru": "Уходить в другую комнату",
+                    "kk": "Басқа бөлмеге кету",
+                    "en": "Leave to another room"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f-12",
+          "order": 12,
+          "phase": "infant",
+          "phase_label": {
+            "ru": "Младенчество",
+            "kk": "Нәрестелік кезең",
+            "en": "Infancy"
+          },
+          "title": {
+            "ru": "Связь с малышом и эмоции папы",
+            "kk": "Сәбимен байланыс және әкенің эмоциясы",
+            "en": "Bonding with baby and dad’s emotions"
+          },
+          "duration_min": 11,
+          "is_premium": false,
+          "summary": {
+            "ru": "Контакт кожа-к-коже, разговор, усталость и когда просить помощь.",
+            "kk": "Терімен жанасу, сөйлесу, шаршау және қашан көмек сұрау керек.",
+            "en": "Skin-to-skin contact, talking, fatigue, and asking for help."
+          },
+          "sections": [
+            {
+              "heading": {
+                "ru": "Контакт",
+                "kk": "Байланыс",
+                "en": "Bonding"
+              },
+              "body": {
+                "ru": "Носите малыша на руках, разговаривайте, меняйте подгузники. Привязанность строится с первых дней.",
+                "kk": "Сәбиді қолға алып, сөйлесіп, жөргегін ауыстырыңыз. Жақын байланыс алғашқы күндерден қалыптасады.",
+                "en": "Hold your baby, talk, and change diapers. Bonding starts from the very first days."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Ваши чувства",
+                "kk": "Сіздің сезімдеріңіз",
+                "en": "Your feelings"
+              },
+              "body": {
+                "ru": "Усталость и растерянность у отцов — нормальны. Говорите с партнёршей, не замыкайтесь. При тяжёлой тревоге — к специалисту.",
+                "kk": "Әкелердегі шаршау мен абдырау — қалыпты. Серіктеспен ашық сөйлесіп, ішке бүкпеңіз. Күшті уайым болса, маманға жүгініңіз.",
+                "en": "Fatigue and confusion in fathers are normal. Talk openly with your partner and do not isolate yourself. If anxiety becomes severe, seek professional support."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Чек-лист",
+                "kk": "Тексеру тізімі",
+                "en": "Checklist"
+              },
+              "body": {
+                "ru": "Следите за температурой, сном и кормлением малыша. Плановые визиты к педиатру — по графику. При ухудшении состояния — сразу к врачу.",
+                "kk": "Сәбидің температурасы, ұйқысы мен тамақтануын бақылаңыз. Педиатрға жоспарлы бару кестесін ұстаныңыз. Жағдай нашарласа — дереу дәрігерге.",
+                "en": "Monitor your baby's temperature, sleep, and feeding. Keep pediatric visits on schedule. If condition worsens — see a doctor immediately."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Коротко о главе",
+                "kk": "Бөлім туралы қысқаша",
+                "en": "Chapter summary"
+              },
+              "body": {
+                "ru": "Контакт кожа-к-коже, разговор, усталость и когда просить помощь. Это ориентир для разговора с врачом, а не медицинское назначение.",
+                "kk": "Терімен жанасу, сөйлесу, шаршау және қашан көмек сұрау керек. Бұл дәрігермен сөйлесуге арналған бағдар, медициналық тағайындау емес.",
+                "en": "Skin-to-skin contact, talking, fatigue, and asking for help. This is guidance for talking with your doctor, not a medical prescription."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Важно",
+                "kk": "Маңызды",
+                "en": "Important"
+              },
+              "body": {
+                "ru": "Материал носит образовательный характер и не заменяет консультацию врача. При угрозе жизни звоните 103.",
+                "kk": "Материал білім беру сипатында және дәрігер кеңесін алмастырмайды. Өмірге қауіп төнсе 103 қоңырау шалыңыз.",
+                "en": "This content is educational and does not replace medical advice. If life is at risk, call 103."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Контакт",
+                "kk": "Байланыс",
+                "en": "Bonding"
+              },
+              "body": {
+                "ru": "Ежедневный короткий ритуал помогает связи с малышом: контакт кожа-к-коже, разговор, колыбельная перед сном. Регулярность важнее длительности, даже 10-15 минут дают эффект.",
+                "kk": "Сәбимен байланысқа күнделікті қысқа ритуал көмектеседі: терімен жанасу, сөйлесу, ұйқы алдында әлди айту. Ұзақтығынан гөрі тұрақтылық маңызды, 10-15 минуттың өзі пайдалы.",
+                "en": "A short daily ritual builds bonding: skin-to-skin, talking, and a lullaby before sleep. Consistency matters more than duration, even 10-15 minutes helps."
+              }
+            },
+            {
+              "heading": {
+                "ru": "Ваши чувства",
+                "kk": "Сіздің сезімдеріңіз",
+                "en": "Your feelings"
+              },
+              "body": {
+                "ru": "Усталость и тревога у папы в первый месяц — частая история, и это не слабость. Если напряжение нарастает, обсудите это с партнёршей и при необходимости обратитесь к специалисту.",
+                "kk": "Алғашқы айда әкедегі шаршау мен уайым жиі кездеседі, бұл әлсіздік емес. Күйзеліс күшейсе, серіктеспен ашық сөйлесіп, қажет болса маман көмегіне жүгініңіз.",
+                "en": "Fatigue and anxiety in fathers during the first month are common and not a weakness. If stress keeps growing, talk to your partner and seek professional help."
+              }
+            }
+          ],
+          "quiz": {
+            "pass_score": 1,
+            "questions": [
+              {
+                "id": "f-12-q1",
+                "text": {
+                  "ru": "Как укрепить связь с новорождённым?",
+                  "kk": "Жаңа туғанмен байланысты қалай күшейтуге болады?",
+                  "en": "How can you strengthen bond with a newborn?"
+                },
+                "options": [
+                  {
+                    "ru": "Тактильный контакт и забота",
+                    "kk": "Жанасу және тұрақты қамқорлық",
+                    "en": "Physical closeness and daily care"
+                  },
+                  {
+                    "ru": "Редко брать на руки",
+                    "kk": "Сирек қолға алу",
+                    "en": "Hold baby rarely"
+                  },
+                  {
+                    "ru": "Только мама может общаться",
+                    "kk": "Тек ана ғана қарым-қатынас жасай алады",
+                    "en": "Only mother should interact"
+                  }
+                ],
+                "correct_index": 0
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

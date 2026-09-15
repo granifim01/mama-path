@@ -1,0 +1,70 @@
+{
+  "brand": { "title": "Mama Path", "tagline": "for expectant parents" },
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "hospitals": "Hospitals",
+    "products": "Products",
+    "help": "Help",
+    "login": "Log in",
+    "register": "Sign up",
+    "logout": "Log out",
+    "hello": "Hi, {name}"
+  },
+  "lang": { "label": "Language" },
+  "home": {
+    "eyebrow": "For parents in Kazakhstan",
+    "title": "Everything that matters — from planning to the first months with your baby",
+    "description": "Full courses for moms and dads, a hospital map, product picks, and help in urgent situations.",
+    "statsChapters": "{n} course chapters",
+    "statsHospitals": "{n} maternity hospitals",
+    "statsProducts": "{n} products in guides",
+    "features": {
+      "coursesTitle": "Courses for moms and dads",
+      "coursesText": "Step-by-step chapters, short quizzes, and saved progress in your account",
+      "hospitalsTitle": "Hospital map",
+      "hospitalsText": "Prices, addresses, reviews, and compare up to three hospitals",
+      "productsTitle": "What to buy",
+      "productsText": "Guides by pregnancy stage and baby's age",
+      "helpTitle": "Urgent help",
+      "helpText": "Guidance on when to call 103, go to the hospital, or see a doctor",
+      "accountTitle": "Your account",
+      "accountText": "Save course progress and return anytime"
+    }
+  },
+  "courses": {
+    "title": "Courses for parents",
+    "subtitle": "All chapters are free — learn at your own pace.",
+    "chapters": "chapters",
+    "minRead": "min read",
+    "backToTrack": "← Back to chapters",
+    "prev": "← Back",
+    "next": "Next →",
+    "quizTitle": "Quick quiz",
+    "quizSubmit": "Check answers",
+    "quizPassed": "Great! Progress saved.",
+    "quizFailed": "Try again — it helps you remember the essentials.",
+    "disclaimer": "This content is educational and does not replace medical advice."
+  },
+  "hospitals": {
+    "eyebrow": "4 cities in Kazakhstan",
+    "title": "Maternity hospitals: map, prices & reviews",
+    "description": "Pick a city, compare options, and read other parents' experiences.",
+    "found": "Found: {n}",
+    "total": "Total in database: {n}"
+  },
+  "help": {
+    "title": "Urgent help",
+    "subtitle": "Describe symptoms in plain words. This is not a diagnosis — only guidance.",
+    "placeholder": "For example: contractions every 5 minutes",
+    "submit": "Get guidance",
+    "call103": "Call 103"
+  },
+  "common": {
+    "show": "Show",
+    "retry": "Retry",
+    "compare": "Compare",
+    "details": "Details",
+    "emergency": "If life is at risk, call 103"
+  }
+}

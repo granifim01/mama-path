@@ -1,0 +1,133 @@
+{
+  "updated_at": "2026-06-10T12:00:00Z",
+  "categories": [
+    {
+      "id": "hospital-bag",
+      "title": "Сумка в роддом",
+      "items": [
+        {
+          "id": "p-01",
+          "name": "Подгузники для новорождённых (размер NB)",
+          "phase": "trimester-3",
+          "age_weeks": null,
+          "rating": 4.8,
+          "reviews_count": 124,
+          "price_hint": "от 3 500 ₸",
+          "note": "1 упаковки хватит на первые дни в роддоме",
+          "verified_review": "Взяли Pampers NB — хватило на выписку, кожа не раздражалась."
+        },
+        {
+          "id": "p-02",
+          "name": "Халат/рубашка для кормления",
+          "phase": "trimester-3",
+          "age_weeks": null,
+          "rating": 4.6,
+          "reviews_count": 58,
+          "price_hint": "от 8 000 ₸",
+          "note": "Удобно для ГВ в палате",
+          "verified_review": "Рубашка с запахом — must have, не пожалела."
+        },
+        {
+          "id": "p-05",
+          "name": "Прокладки послеродовые",
+          "phase": "trimester-3",
+          "age_weeks": null,
+          "rating": 4.5,
+          "reviews_count": 92,
+          "price_hint": "от 2 800 ₸",
+          "note": "Берите с запасом — 2–3 упаковки",
+          "verified_review": "В роддоме выдали, но свои удобнее по размеру."
+        },
+        {
+          "id": "p-06",
+          "name": "Бутылочка для воды маме",
+          "phase": "trimester-3",
+          "age_weeks": null,
+          "rating": 4.3,
+          "reviews_count": 41,
+          "price_hint": "от 1 500 ₸",
+          "note": "С трубочкой удобнее в палате",
+          "verified_review": "Не открывала бутылку одной рукой — взяла с крышкой-чашкой."
+        }
+      ]
+    },
+    {
+      "id": "infant-0-3",
+      "title": "0–3 месяца",
+      "items": [
+        {
+          "id": "p-03",
+          "name": "Газоотводная трубочка",
+          "phase": "infant",
+          "age_weeks": "0-12",
+          "rating": 4.4,
+          "reviews_count": 89,
+          "price_hint": "от 1 200 ₸",
+          "note": "По назначению педиатра",
+          "verified_review": "Помогала при коликах, но использовали аккуратно по инструкции."
+        },
+        {
+          "id": "p-04",
+          "name": "Термометр инфракрасный бесконтактный",
+          "phase": "infant",
+          "age_weeks": "0-52",
+          "rating": 4.7,
+          "reviews_count": 201,
+          "price_hint": "от 12 000 ₸",
+          "note": "Для домашнего контроля температуры",
+          "verified_review": "Измеряем за 2 секунды, особенно ночью удобно."
+        },
+        {
+          "id": "p-07",
+          "name": "Аспиратор назальный",
+          "phase": "infant",
+          "age_weeks": "0-12",
+          "rating": 4.6,
+          "reviews_count": 67,
+          "price_hint": "от 3 200 ₸",
+          "note": "При заложенности носа у новорождённого",
+          "verified_review": "Электрический берегли для ночи — меньше плача."
+        },
+        {
+          "id": "p-08",
+          "name": "Пелёнки хлопковые 80×80",
+          "phase": "infant",
+          "age_weeks": "0-12",
+          "rating": 4.9,
+          "reviews_count": 156,
+          "price_hint": "от 4 500 ₸ за 5 шт",
+          "note": "Многоразовые, стираются часто",
+          "verified_review": "10 штук на старте — оптимально, не покупайте 20 сразу."
+        }
+      ]
+    },
+    {
+      "id": "feeding",
+      "title": "Кормление",
+      "items": [
+        {
+          "id": "p-09",
+          "name": "Молокоотсос электрический",
+          "phase": "infant",
+          "age_weeks": "0-52",
+          "rating": 4.5,
+          "reviews_count": 78,
+          "price_hint": "от 25 000 ₸",
+          "note": "Двойной полезен при частом сцеживании",
+          "verified_review": "В аренду взяли на месяц — сэкономили, пока не поняли нужен ли свой."
+        },
+        {
+          "id": "p-10",
+          "name": "Подушка для кормления",
+          "phase": "trimester-3",
+          "age_weeks": "0-52",
+          "rating": 4.7,
+          "reviews_count": 112,
+          "price_hint": "от 9 000 ₸",
+          "note": "Снимает нагрузку на спину",
+          "verified_review": "Использовали и для укладывания в первые недели."
+        }
+      ]
+    }
+  ]
+}

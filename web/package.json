@@ -1,0 +1,51 @@
+{
+  "name": "mama-path-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:up": "docker compose -f ../docker-compose.yml up -d postgres",
+    "db:down": "docker compose -f ../docker-compose.yml down",
+    "db:logs": "docker compose -f ../docker-compose.yml logs -f postgres",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "tsx scripts/migrate.ts",
+    "db:seed": "tsx scripts/seed.ts",
+    "db:setup": "npm run db:migrate && npm run db:seed",
+    "db:reset": "docker compose -f ../docker-compose.yml down -v && docker compose -f ../docker-compose.yml up -d postgres && sleep 4 && npm run db:setup",
+    "db:sync-hospitals": "tsx scripts/sync-hospitals.ts",
+    "db:sync-catalogs": "tsx scripts/sync-catalogs.ts",
+    "db:sync": "npm run db:sync-hospitals && npm run db:sync-catalogs",
+    "courses:enrich": "tsx scripts/enrich-courses.ts",
+    "courses:i18n": "tsx scripts/build-courses-i18n.ts",
+    "hospitals:clean": "tsx scripts/clean-hospitals-json.ts",
+    "hospitals:remerge": "cd ../scraper && .venv/bin/python remerge.py",
+    "scraper:run": "cd ../scraper && .venv/bin/python run.py",
+    "scraper:sync": "npm run scraper:run && npm run db:sync"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^16.6.1",
+    "drizzle-orm": "^0.44.7",
+    "jose": "^6.2.3",
+    "leaflet": "^1.9.4",
+    "next": "^15.3.3",
+    "pg": "^8.21.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-leaflet": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/leaflet": "^1.9.17",
+    "@types/node": "^22.15.21",
+    "@types/pg": "^8.20.0",
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.5",
+    "drizzle-kit": "^0.31.10",
+    "tsx": "^4.22.4",
+    "typescript": "^5.8.3"
+  }
+}

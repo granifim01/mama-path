@@ -1,0 +1,1361 @@
+{
+  "updated_at": "2026-06-10T15:08:30.448666+00:00",
+  "count": 30,
+  "hospitals": [
+    {
+      "id": "almaty|addr|ул кажымукана|86",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "iO Clinic",
+      "normalized_name": "io clinic",
+      "facility_type": "private",
+      "facility_type_label": "Медицинский центр",
+      "address": "Алматы, ул. Кажымукана, 86",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "до 17:00",
+      "description": null,
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Вся семья ходит к доктору Абдымомуновой нам нравится. Всегда все четко лишнего не назначает. Она помогает мне восстановится после родов.",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "myioclinic.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/almaty/",
+          "detail_url": "https://myioclinic.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "almaty|addr|bul бухар жырау|45/1",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Медицинский центр «Keruen-Medicus» (Керуен-Медикус)",
+      "normalized_name": "медицинский центр keruen medicus керуен медикус",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "бульвар Бухар Жырау, д. 45/1",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 53,
+      "schedule": "до 18:00",
+      "description": "Медицинский центр «Keruen-Medicus» (Керуен-Медикус) , Алматы: 53 врача, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, бульвар Бухар Жырау, д. 45/1 .",
+      "has_paid_birth": true,
+      "free_birth_available": false,
+      "services": [
+        {
+          "title": "Платные роды",
+          "price_raw": "от 550 000 тенге",
+          "price_from": 550000
+        },
+        {
+          "title": "Партнерские роды",
+          "price_raw": "Цена по запросу",
+          "price_from": null
+        }
+      ],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Медицинский центр «Keruen-Medicus» (Керуен-Медикус) , Алматы: 53 врача, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, бульвар Бухар Жырау, д. 45/1 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        },
+        {
+          "source": "103.kz",
+          "text": "Стояла у неё на учёте по беременности. Считаю, что было халатное отношение. С кровянистыми выделениями и начинающимся раскрытием на 24 неделе, сказала, что все нормально и отправила домой отдыхать и гулять (!!!), еще сказала не надо только лежать все время. Через несколько дней я родила. В стационаре сказали, если бы вовремя приняли меры, сохранили бы беременность",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1142",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/1142-keruen-medikus/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "keruen-medicus.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/almaty/",
+          "detail_url": "https://keruen-medicus.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "almaty|addr|mkr мирас|45",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Медицинский центр «Приват Клиник»",
+      "normalized_name": "медицинский центр приват клиник",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "мкр. Мирас, д. 45",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 53,
+      "schedule": null,
+      "description": "Медицинский центр «Приват Клиник» , Алматы: 53 врача, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, мкр. Мирас, д. 45 .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Медицинский центр «Приват Клиник» , Алматы: 53 врача, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, мкр. Мирас, д. 45 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1192",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/1192-privat-klinik/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "almaty|addr|pr достык|125",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "НЦАГИП",
+      "normalized_name": "нцагип",
+      "facility_type": "unknown",
+      "facility_type_label": null,
+      "address": "Алматы, пр-т Достык, 125",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "Круглосуточно",
+      "description": null,
+      "has_paid_birth": true,
+      "free_birth_available": null,
+      "services": [
+        {
+          "title": "Кесарево сечение",
+          "price_raw": "от 22 500 тенге",
+          "price_from": 22500
+        },
+        {
+          "title": "Индивидуальное сопровождение родов врачом партнером",
+          "price_raw": "от 55 000 тенге",
+          "price_from": 55000
+        },
+        {
+          "title": "Индивидуальное сопровождение родов акушеркой партнером",
+          "price_raw": "от 35 640 тенге",
+          "price_from": 35640
+        },
+        {
+          "title": "Партнерские роды",
+          "price_raw": "Цена по запросу",
+          "price_from": null
+        },
+        {
+          "title": "Преждевременные роды",
+          "price_raw": "от 46 650 тенге",
+          "price_from": 46650
+        }
+      ],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Я там родила дочку.Врачи очень хорошо смотрят",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "ncagip.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/almaty/",
+          "detail_url": "https://ncagip.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "almaty|addr|ул жубанова|11",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Перинатальный центр на Жубанова",
+      "normalized_name": "перинатальный центр на жубанова",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "ул. Жубанова, д. 11",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 27,
+      "schedule": null,
+      "description": "Перинатальный центр на Жубанова , Алматы: 27 врачей, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Жубанова, д. 11 .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Перинатальный центр на Жубанова , Алматы: 27 врачей, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Жубанова, д. 11 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1173",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/1173-perinatalnyy-centr-na-zhubanova/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "almaty|addr|ул жангельдина 28/20|22",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Перинатальный центр №2",
+      "normalized_name": "перинатальный центр no 2",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "ул. Жангельдина, д. 28/20-22",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 19,
+      "schedule": null,
+      "description": "Перинатальный центр №2 , Алматы: 19 врачей, 2 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Жангельдина, д. 28/20-22 .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Перинатальный центр №2 , Алматы: 19 врачей, 2 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Жангельдина, д. 28/20-22 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1159",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/1159-perinatalnyy-centr-2/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "almaty|addr|mkr таугуль|46/1",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Роддом «Рахат» в Таугуль",
+      "normalized_name": "родильный дом рахат в таугуль",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "мкр. Таугуль, дом 46/1",
+      "phone": "+7 705 956-34-07",
+      "rating": null,
+      "doctors_count": 16,
+      "schedule": "Закрыто до 08:00",
+      "description": "Роддом «Рахат» в Таугуль , Алматы: 16 врачей, 2 отзыва о клинике и ее врачах, цены от 14300 до 23700 тенге., запись на приём +7 705 956-34-07 , официальный сайт, адрес - Алматы, мкр. Таугуль, дом 46/1 .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Роддом «Рахат» в Таугуль , Алматы: 16 врачей, 2 отзыва о клинике и ее врачах, цены от 14300 до 23700 тенге., запись на приём +7 705 956-34-07 , официальный сайт, адрес - Алматы, мкр. Таугуль, дом 46/1 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1275",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/1275-rahat/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "almaty|addr|ул станкевича|6",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Роддом №4",
+      "normalized_name": "roddom 4",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "ул. Станкевича, д. 6",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 5,
+      "schedule": null,
+      "description": "Роддом №4 , Алматы: 5 врачей, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Станкевича, д. 6 .",
+      "has_paid_birth": null,
+      "free_birth_available": true,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Роддом №4 , Алматы: 5 врачей, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Станкевича, д. 6 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1350",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/1350-roddom-4/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "almaty|addr|pr сакена сейфуллина|492",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Родильный дом №1",
+      "normalized_name": "roddom 1",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "просп. Сакена Сейфуллина, д. 492",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 23,
+      "schedule": "Круглосуточно",
+      "description": "Роддом №1 , Алматы: 23 врача, 2 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, просп. Сакена Сейфуллина, д. 492 .",
+      "has_paid_birth": true,
+      "free_birth_available": true,
+      "services": [
+        {
+          "title": "Платные роды",
+          "price_raw": "от 80 000 тенге",
+          "price_from": 80000
+        },
+        {
+          "title": "Кесарево сечение",
+          "price_raw": "от 120 000 тенге",
+          "price_from": 120000
+        }
+      ],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Роддом №1 , Алматы: 23 врача, 2 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, просп. Сакена Сейфуллина, д. 492 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        },
+        {
+          "source": "103.kz",
+          "text": "Спасибо за заботу о нашей малышке в первые самые важные дни! Доктор внимательно следил за состоянием, всё объяснял и поддерживал нас как родителей",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "5322",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/5322-roddom-1/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "rd1.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/almaty/",
+          "detail_url": "https://rd1.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "almaty|addr|ул кабдолова|28",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Родильный дом №5",
+      "normalized_name": "roddom 5",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "ул. Кабдолова, д. 28",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 11,
+      "schedule": "Круглосуточно",
+      "description": "Роддом №5 , Алматы: 11 врачей, 3 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Кабдолова, д. 28 .",
+      "has_paid_birth": true,
+      "free_birth_available": true,
+      "services": [
+        {
+          "title": "Кесарево сечение",
+          "price_raw": "от 24 700 тенге",
+          "price_from": 24700
+        },
+        {
+          "title": "Партнерские роды",
+          "price_raw": "от 24 600 тенге",
+          "price_from": 24600
+        },
+        {
+          "title": "Преждевременные роды",
+          "price_raw": "от 34 650 тенге",
+          "price_from": 34650
+        }
+      ],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Роддом №5 , Алматы: 11 врачей, 3 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Кабдолова, д. 28 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        },
+        {
+          "source": "103.kz",
+          "text": "15 желтоқсанда кесер тілігімен босандым. Операцияны Берік жасады, қолы жеңіл тамаша кісі екен. Өз ісінің маманы. 5 роддомның барлық қызметкерлеріне риза болдым, мейірімді, білімді екен!",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1158",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/1158-roddom-5/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "rd5.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/almaty/",
+          "detail_url": "https://rd5.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "almaty|addr|ул басенова|2а",
+      "city_slug": "almaty",
+      "city_name": "Алматы",
+      "name": "Центр перинатологии и детской кардиохирургии",
+      "normalized_name": "центр перинатологии и детской кардиохирургии",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "ул. Басенова, д. 2А",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 33,
+      "schedule": null,
+      "description": "Центр перинатологии и детской кардиохирургии , Алматы: 33 врача, 3 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Басенова, д. 2А .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Центр перинатологии и детской кардиохирургии , Алматы: 33 врача, 3 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Алматы, ул. Басенова, д. 2А .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "6826",
+          "source_url": "https://ydoc.kz/almaty/top/roddom/",
+          "detail_url": "https://ydoc.kz/almaty/lpu/6826-centr-perinatologii-i-detskoy-kardiohirurgii/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "astana|addr|ул е 126|4/1",
+      "city_slug": "astana",
+      "city_name": "Астана",
+      "name": "«Центр перинатальной профилактики» на Е-126",
+      "normalized_name": "центр перинатальной профилактики на е 126",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "ул. Е-126, д. 4/1",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 15,
+      "schedule": null,
+      "description": "«Центр перинатальной профилактики» на Е-126 , Астана: 15 врачей, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, ул. Е-126, д. 4/1 .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "«Центр перинатальной профилактики» на Е-126 , Астана: 15 врачей, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, ул. Е-126, д. 4/1 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "10953",
+          "source_url": "https://ydoc.kz/astana/top/roddom/",
+          "detail_url": "https://ydoc.kz/astana/lpu/10953-centr-perinatalnoy-profilaktiki-na-e-126/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "astana|addr|pr тауелсиздик|3/1",
+      "city_slug": "astana",
+      "city_name": "Астана",
+      "name": "Городская больница №1",
+      "normalized_name": "перинатальный центр",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "просп. Тауелсиздик, д. 3/1",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "Круглосуточно",
+      "description": "Перинатальный центр , Астана: врачи, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, просп. Тауелсиздик, д. 3/1 .",
+      "has_paid_birth": true,
+      "free_birth_available": false,
+      "services": [
+        {
+          "title": "Физиологические роды",
+          "price_raw": "уточняйте",
+          "price_from": null
+        },
+        {
+          "title": "Кесарево сечение",
+          "price_raw": "уточняйте",
+          "price_from": null
+        }
+      ],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Перинатальный центр , Астана: врачи, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, просп. Тауелсиздик, д. 3/1 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        },
+        {
+          "source": "103.kz",
+          "text": "Мукутова Алинур отличный доктор и мастер своего дела! Все подробно объяснили и показали, очень надежный доктор",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "10952",
+          "source_url": "https://ydoc.kz/astana/top/roddom/",
+          "detail_url": "https://ydoc.kz/astana/lpu/10952-perinatalnyy-centr/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "perinatalynyj-centr-2.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/astana/",
+          "detail_url": "https://perinatalynyj-centr-2.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "astana|addr|ул турара рыскулова|6",
+      "city_slug": "astana",
+      "city_name": "Астана",
+      "name": "Городская больница №2",
+      "normalized_name": "городская больница no 2",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "Астана, ул. Турара Рыскулова, 6",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "Круглосуточно",
+      "description": null,
+      "has_paid_birth": null,
+      "free_birth_available": true,
+      "services": [],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Письмо благодарность врачам хирургам -офтальмологам 2-й городской больницы г.Астана Уважаемый Зав.отделением СУНГАТ КАРАТАЕВИЧ КУПЕНОВ и ХИРУРГ КРЫМОВ НУРСУЛТАН БЕРИКОВИЧ От всей души хочу выразить свою искреннюю благодарность за блестяще проведённые операции по замене хрусталика на оба глаза. Ваша доброта, чуткость и высокий профессионализм оставили у меня самые тёплые впечатления. Я глубоко признательна за ваше внимание и заботу на каждом этапе моего лечения — от диагностики до операции и реабилитации. Благодаря вашему труду и внимательному отношению я улучшила своё зрение, что наполнило мою жизнь новыми красками и радостью. Желаю вам и всей вашей команде крепкого здоровья, профессиональных успехов, счастья и благополучия! Пусть всё добро, которое вы дарите своим пациентам, возвращается вам. С глубокой признательностью, Карабаева Халия Абеновна 20.01.2025 г.",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "gorodskaja-bolynica-2.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/astana/",
+          "detail_url": "https://gorodskaja-bolynica-2.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "astana|addr|ул алии молдагуловой|28",
+      "city_slug": "astana",
+      "city_name": "Астана",
+      "name": "Многопрофильная городская больница №3",
+      "normalized_name": "родильный дом больницы no 3",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "ул. Алии Молдагуловой, д. 28",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 14,
+      "schedule": "Круглосуточно",
+      "description": "Роддом больницы №3 , Астана: 14 врачей, 2 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, ул. Алии Молдагуловой, д. 28 .",
+      "has_paid_birth": true,
+      "free_birth_available": true,
+      "services": [
+        {
+          "title": "Физиологические роды",
+          "price_raw": "от 196 800 тенге",
+          "price_from": 196800
+        },
+        {
+          "title": "Кесарево-сечение",
+          "price_raw": "от 233 000 тенге",
+          "price_from": 233000
+        }
+      ],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Роддом больницы №3 , Астана: 14 врачей, 2 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, ул. Алии Молдагуловой, д. 28 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        },
+        {
+          "source": "103.kz",
+          "text": "Хочу поблагодарить Медицинский Персонал именно так с Большой Буквы,а именно спасла жизнь мне и малышке моей путем экстр. Кесарева глав врач МГБ 3 Ольга Владимировна. Врач хирург от Бога,спасибо Вам за Ваш труд и профессионализм- я помнить буду вас всегда. Инесса Владимировна,очень грамотный хирург и понимающий,персонал реанимации Алишер молодой парнишка такой шустрый и начинающий ,добрый человек,Кардиолог Халелович(запомнила отчество:)восстановил мое сердечко после операции,Мариночка сестричка заботливая такая,мы с ней разговаривали по душам. И девушка которая была с ними Айнур,помогали мне восстановиться и подняться на ноги. Да так быстро что через 2 часа я уже встала. Окушер Залина очень отзывчивая и добрая ,помогла моему супругу поддержала принесла нашу дочу пока меня оперировала глав врач и делала из меня куколку. Сымбат Бакытжанкызы- лаборант и окушер рука легкая: кровь берет как комарик,укольчики нежные с ее ручек. Спасибо Вам дорогие и милые Женщины.",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "879",
+          "source_url": "https://ydoc.kz/astana/top/roddom/",
+          "detail_url": "https://ydoc.kz/astana/lpu/879-roddom-bolnicy-3/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "perinatalynyj-centr-3.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/astana/",
+          "detail_url": "https://perinatalynyj-centr-3.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "astana|addr|ул турара рыскулова|8",
+      "city_slug": "astana",
+      "city_name": "Астана",
+      "name": "Перинатальный центр №1",
+      "normalized_name": "родильный дом больницы no 2",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "ул. Турара Рыскулова, д. 8",
+      "phone": null,
+      "rating": 5,
+      "doctors_count": 99,
+      "schedule": "Круглосуточно",
+      "description": "Роддом больницы №2 , Астана: 99 врачей, 5 отзывов о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, ул. Турара Рыскулова, д. 8 .",
+      "has_paid_birth": true,
+      "free_birth_available": true,
+      "services": [
+        {
+          "title": "Физиологические роды",
+          "price_raw": "уточняйте",
+          "price_from": null
+        },
+        {
+          "title": "Кесарево сечение",
+          "price_raw": "уточняйте",
+          "price_from": null
+        }
+      ],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Роддом больницы №2 , Астана: 99 врачей, 5 отзывов о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, ул. Турара Рыскулова, д. 8 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        },
+        {
+          "source": "103.kz",
+          "text": "Благодарю персонал больницы. Врач Ботагоз Жаркыновна, мед сестра Халида и Дильмара апай. Все очень грамотно объяснили. Вкусно кормили.",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "876",
+          "source_url": "https://ydoc.kz/astana/top/roddom/",
+          "detail_url": "https://ydoc.kz/astana/lpu/876-roddom-bolnicy-2/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "perinatalynyj-centr-1.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/astana/",
+          "detail_url": "https://perinatalynyj-centr-1.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "astana|addr|ул беимбета майлина|18",
+      "city_slug": "astana",
+      "city_name": "Астана",
+      "name": "Рахат",
+      "normalized_name": "рахат",
+      "facility_type": "private",
+      "facility_type_label": "Центр акушерства, гинекологии и хирургии",
+      "address": "Астана, ул. Беимбета Майлина, 18",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "до 18:00",
+      "description": null,
+      "has_paid_birth": true,
+      "free_birth_available": false,
+      "services": [
+        {
+          "title": "Роды консервативные не осложненные с нашим учетом",
+          "price_raw": "690 000 тенге",
+          "price_from": 690000
+        },
+        {
+          "title": "Роды консервативные не осложненные без нашего учета",
+          "price_raw": "790 000 тенге",
+          "price_from": 790000
+        },
+        {
+          "title": "Роды многоплодной беременности (консервативные не осложненные) с нашим учетом",
+          "price_raw": "830 000 тенге",
+          "price_from": 830000
+        },
+        {
+          "title": "Роды многоплодной беременности (консервативные не осложненные) без нашего учета",
+          "price_raw": "930 000 тенге",
+          "price_from": 930000
+        },
+        {
+          "title": "Кесарево сечение с нашим учетом",
+          "price_raw": "790 000 тенге",
+          "price_from": 790000
+        }
+      ],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Спокойная, внимательная, с отличным подходом к пациентам. Всегда чувствую себя в надёжных руках.",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "rahat-astana9.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/astana/",
+          "detail_url": "https://rahat-astana9.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "astana|addr|ул манаса|22",
+      "city_slug": "astana",
+      "city_name": "Астана",
+      "name": "Роддом областной больницы №2",
+      "normalized_name": "родильный дом областной больницы no 2",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "ул. Манаса, д. 22",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 6,
+      "schedule": null,
+      "description": "Роддом областной больницы №2 , Астана: 6 врачей, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, ул. Манаса, д. 22 .",
+      "has_paid_birth": null,
+      "free_birth_available": true,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Роддом областной больницы №2 , Астана: 6 врачей, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Астана, ул. Манаса, д. 22 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "10887",
+          "source_url": "https://ydoc.kz/astana/top/roddom/",
+          "detail_url": "https://ydoc.kz/astana/lpu/10887-roddom-oblastnoy-bolnicy-2/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "karaganda|addr|г темиртау ул абая|53/3",
+      "city_slug": "karaganda",
+      "city_name": "Караганда",
+      "name": "Многопрофильный центр матери и ребенка г. Темиртау",
+      "normalized_name": "многопрофильный центр матери и ребенка г темиртау",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "г. Темиртау ул. Абая, 53/3",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "до 16:30",
+      "description": null,
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Поликлиника как и везде. Народу всегда много, но можно пройти всех для медкомиссии в одном месте. Очень удобно. Ну и как везде есть очень вредны врачи которые оставляют плохой осадок о медучреждении. Порой даже думаешь что они раньше в гистапо оказывали медицинскую помощь. Во круг есть магазины в которые можно зайти и выбрать тот или иной продукт или вещь",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "rodilynyj-dom-g-temirtau.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/karaganda/",
+          "detail_url": "https://rodilynyj-dom-g-temirtau.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "karaganda|addr|ул ерубаева|15",
+      "city_slug": "karaganda",
+      "city_name": "Караганда",
+      "name": "Областная клиническая больница",
+      "normalized_name": "областная клиническая больница",
+      "facility_type": "unknown",
+      "facility_type_label": null,
+      "address": "Караганда, ул. Ерубаева, 15",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "Круглосуточно",
+      "description": null,
+      "has_paid_birth": null,
+      "free_birth_available": null,
+      "services": [],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Огромная благодарность и уважение заведующей отделением оперативной гинекологии, акушеру-гинекологу Областной клинической больницы (г. Караганда) Калменовой Лауре Мирамовне за удачное проведение сложной операции! За высокий профессионализм, за благородный и самоотверженный труд, за отзывчивость и колоссальную поддержку в трудные моменты, за особый подход, за теплое и внимательное отношение к каждому пациенту! Хочу также поблагодарить медицинский персонал отделения оперативной гинекологии за слаженность в работе, за заботу и уют, за доброту, сердечность и отзывчивость! Спасибо за ваш благородный и неоценимый труд!",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "oblastnaja-klinicheskaja-bolynica-2.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/karaganda/",
+          "detail_url": "https://oblastnaja-klinicheskaja-bolynica-2.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "karaganda|addr|ул сакена сейфуллина|21",
+      "city_slug": "karaganda",
+      "city_name": "Караганда",
+      "name": "Областной перинатальный центр",
+      "normalized_name": "областной перинатальный центр",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "Караганда, ул. Сакена Сейфуллина, 21",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "Круглосуточно",
+      "description": null,
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Огромная благодарность акушеркам которые принимали у меня роды 7.02.2023 утренняя смена: акушерок зовут Сауле и Улбазар по-моему! Знают свою работу добрые отзывчивые! Без них бы не родила наверно!",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "oblastnoj-perinatalynyj-centr.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/karaganda/",
+          "detail_url": "https://oblastnoj-perinatalynyj-centr.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "karaganda|addr|ул щорса|53",
+      "city_slug": "karaganda",
+      "city_name": "Караганда",
+      "name": "Региональный акушерско-гинекологический центр",
+      "normalized_name": "региональный акушерско гинекологический центр",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "Караганда, ул. Щорса, 53",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "до 20:00",
+      "description": null,
+      "has_paid_birth": true,
+      "free_birth_available": false,
+      "services": [
+        {
+          "title": "Кесарево-сечение",
+          "price_raw": "от 160 000 тенге",
+          "price_from": 160000
+        },
+        {
+          "title": "Физиологические роды",
+          "price_raw": "от 140 000 тенге",
+          "price_from": 140000
+        }
+      ],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Всем привет! 22.06.2021 я стала дважды мамой в самом прекрасном роддоме Майкудука! Рожала я по контракту у самого прекрасного врача на свете! Газарян Нелли Гагиковна , выражаю вам огромную благодарность за моральную поддержку, врачебный профессионализм, за чёткость действий и вообще за все! Без вас бы я не справилась. Прекрасное место, прекрасный персонал, вкусная еда. Сюда хочется вернуться! Всем советую. :)",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "ginecologicheskij-centr.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/karaganda/",
+          "detail_url": "https://ginecologicheskij-centr.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "karaganda|addr|pr сакена сейфуллина|21",
+      "city_slug": "karaganda",
+      "city_name": "Караганда",
+      "name": "Перинатальный центр №1",
+      "normalized_name": "перинатальный центр no 1",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "просп. Сакена Сейфуллина, д. 21",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 12,
+      "schedule": null,
+      "description": "Перинатальный центр №1 , Караганда: 12 врачей, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Караганда, просп. Сакена Сейфуллина, д. 21 .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Перинатальный центр №1 , Караганда: 12 врачей, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Караганда, просп. Сакена Сейфуллина, д. 21 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "4932",
+          "source_url": "https://ydoc.kz/karaganda/top/roddom/",
+          "detail_url": "https://ydoc.kz/karaganda/lpu/4932-perinatalnyy-centr-1/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "karaganda|addr|ул луначарского|6а",
+      "city_slug": "karaganda",
+      "city_name": "Караганда",
+      "name": "Перинатальный центр №2",
+      "normalized_name": "перинатальный центр no 2",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "ул. Луначарского, д. 6А",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "до 13:00",
+      "description": "Перинатальный центр №2 , Караганда: врачи, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Караганда, ул. Луначарского, д. 6А .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Перинатальный центр №2 , Караганда: врачи, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Караганда, ул. Луначарского, д. 6А .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        },
+        {
+          "source": "103.kz",
+          "text": "Здравствуйте! Я являюсь гражданкой другой страны. Пугали, что отношения к гражданам других Республик относятся небрежно. Но, слава Богу, это только разговоры. Приняли доброжелательно, относились с уважением и пониманием. Роды прошли замечательно. Провела опрос у МАМОЧЕК по палате, они сказали также, что врачи отзывчивые и все родили самостоятельно без проблем. Персонал порядочный, врачи квалифицированные специалисты. Даже детские мед. сестры, если что не знаешь или подзабыл - научат, напомнят, помогут.В палатах идеальная чистота. Даже столовая бесплатная и даже не плохо готовят. И всегда каждого индивидуально зовут покушать. Даже если отказываешься, стараются уговорить. Дай Бог, чтобы побольше таких родильных домов было.Большое спасибо !",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "4933",
+          "source_url": "https://ydoc.kz/karaganda/top/roddom/",
+          "detail_url": "https://ydoc.kz/karaganda/lpu/4933-perinatalnyy-centr-2/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "rodilynyj-dom.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/karaganda/",
+          "detail_url": "https://rodilynyj-dom.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "shymkent|addr|mkr нурсат|188",
+      "city_slug": "shymkent",
+      "city_name": "Шымкент",
+      "name": "Городской перинатальный центр",
+      "normalized_name": "перинатальный центр",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "мкр. Нурсат, д. 188",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 27,
+      "schedule": "до 20:00",
+      "description": "Перинатальный центр , Шымкент: 27 врачей, 2 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Шымкент, мкр. Нурсат, д. 188 .",
+      "has_paid_birth": true,
+      "free_birth_available": false,
+      "services": [
+        {
+          "title": "Физиологические роды",
+          "price_raw": "уточняйте",
+          "price_from": null
+        },
+        {
+          "title": "Кесарево сечение",
+          "price_raw": "уточняйте",
+          "price_from": null
+        }
+      ],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Перинатальный центр , Шымкент: 27 врачей, 2 отзыва о клинике и ее врачах, телефон, официальный сайт, адрес - Шымкент, мкр. Нурсат, д. 188 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        },
+        {
+          "source": "103.kz",
+          "text": "................. норм ...............",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1134",
+          "source_url": "https://ydoc.kz/shymkent/top/roddom/",
+          "detail_url": "https://ydoc.kz/shymkent/lpu/1134-perinatalnyy-centr/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "opc-1.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/shymkent/",
+          "detail_url": "https://opc-1.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "shymkent|addr|ул алдиярова|60",
+      "city_slug": "shymkent",
+      "city_name": "Шымкент",
+      "name": "Городской родильный дом №2 г. Шымкент",
+      "normalized_name": "родильный дом",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "ул. Алдиярова, д. 60",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 6,
+      "schedule": null,
+      "description": "Роддом , Шымкент: 6 врачей, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Шымкент, ул. Алдиярова, д. 60 .",
+      "has_paid_birth": null,
+      "free_birth_available": true,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Роддом , Шымкент: 6 врачей, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Шымкент, ул. Алдиярова, д. 60 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1063",
+          "source_url": "https://ydoc.kz/shymkent/top/roddom/",
+          "detail_url": "https://ydoc.kz/shymkent/lpu/1063-roddom/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "gorodskoj-rodilynyj-dom-2.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/shymkent/",
+          "detail_url": "https://gorodskoj-rodilynyj-dom-2.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "shymkent|addr|ул терешковой|25",
+      "city_slug": "shymkent",
+      "city_name": "Шымкент",
+      "name": "Городской родильный дом №4",
+      "normalized_name": "городской roddom 4",
+      "facility_type": "public",
+      "facility_type_label": null,
+      "address": "Шымкент, ул. Терешковой, 25",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": null,
+      "description": null,
+      "has_paid_birth": null,
+      "free_birth_available": true,
+      "services": [],
+      "reviews": [],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "gorodskoj-rodilynyj-dom-4.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/shymkent/",
+          "detail_url": "https://gorodskoj-rodilynyj-dom-4.103.kz/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "shymkent|addr|ул иляева|142а",
+      "city_slug": "shymkent",
+      "city_name": "Шымкент",
+      "name": "Областной перинатальный центр №1",
+      "normalized_name": "перинатальный центр no 1",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "ул. Гани Иляева, д. 142а",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 25,
+      "schedule": "Круглосуточно",
+      "description": "Перинатальный центр №1 , Шымкент: 25 врачей, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Шымкент, ул. Гани Иляева, д. 142а .",
+      "has_paid_birth": true,
+      "free_birth_available": false,
+      "services": [
+        {
+          "title": "Физиологические роды",
+          "price_raw": "от 103 790 тенге",
+          "price_from": 103790
+        },
+        {
+          "title": "Кесарево сечение",
+          "price_raw": "от 135 545 тенге",
+          "price_from": 135545
+        }
+      ],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Перинатальный центр №1 , Шымкент: 25 врачей, 1 отзыв о клинике и ее врачах, телефон, официальный сайт, адрес - Шымкент, ул. Гани Иляева, д. 142а .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "1059",
+          "source_url": "https://ydoc.kz/shymkent/top/roddom/",
+          "detail_url": "https://ydoc.kz/shymkent/lpu/1059-perinatalnyy-centr-1/"
+        },
+        {
+          "source": "103.kz",
+          "source_id": "oblastnoj-perinatalynyj-centr-2.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/shymkent/",
+          "detail_url": "https://oblastnoj-perinatalynyj-centr-2.103.kz/"
+        }
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "shymkent|addr|ул рашидова|29/3",
+      "city_slug": "shymkent",
+      "city_name": "Шымкент",
+      "name": "Областной перинатальный центр №2",
+      "normalized_name": "областной перинатальный центр no 2",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "ул. Рашидова, д. 29/3",
+      "phone": null,
+      "rating": null,
+      "doctors_count": 33,
+      "schedule": null,
+      "description": "Областной перинатальный центр №2 , Шымкент: 33 врача, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Шымкент, ул. Рашидова, д. 29/3 .",
+      "has_paid_birth": null,
+      "free_birth_available": false,
+      "services": [],
+      "reviews": [
+        {
+          "source": "ydoc",
+          "text": "Областной перинатальный центр №2 , Шымкент: 33 врача, отзывы о клинике и ее врачах, телефон, официальный сайт, адрес - Шымкент, ул. Рашидова, д. 29/3 .",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "ydoc",
+          "source_id": "10897",
+          "source_url": "https://ydoc.kz/shymkent/top/roddom/",
+          "detail_url": "https://ydoc.kz/shymkent/lpu/10897-perinataldyq-ortalygy-2-perinatalnyy-centr-2/"
+        }
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "shymkent|addr|ул абдуразакова|7",
+      "city_slug": "shymkent",
+      "city_name": "Шымкент",
+      "name": "Областной перинатальный центр №2",
+      "normalized_name": "областной перинатальный центр no 2",
+      "facility_type": "private",
+      "facility_type_label": null,
+      "address": "Шымкент, ул. Абдуразакова, 7",
+      "phone": null,
+      "rating": null,
+      "doctors_count": null,
+      "schedule": "Круглосуточно",
+      "description": null,
+      "has_paid_birth": true,
+      "free_birth_available": false,
+      "services": [
+        {
+          "title": "Физиологические роды",
+          "price_raw": "от 48 885 тенге",
+          "price_from": 48885
+        },
+        {
+          "title": "Кесарево сечение",
+          "price_raw": "от 58 325 тенге",
+          "price_from": 58325
+        }
+      ],
+      "reviews": [
+        {
+          "source": "103.kz",
+          "text": "Очень хороший перинатальный центр. Врачи высакоквалифицированные.",
+          "author": "Пациент",
+          "rating": null,
+          "date": null
+        }
+      ],
+      "sources": [
+        {
+          "source": "103.kz",
+          "source_id": "opc.103.kz",
+          "source_url": "https://www.103.kz/list/rodilnye-doma/shymkent/",
+          "detail_url": "https://opc.103.kz/"
+        }
+      ],
+      "source_count": 1
+    }
+  ]
+}

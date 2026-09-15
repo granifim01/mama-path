@@ -1,0 +1,43 @@
+# Secrets
+.env
+.env.*
+!.env.example
+web/.env.local
+api/.env
+
+# Python
+scraper/.venv/
+api/.venv/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+
+# Flutter
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/build/
+mobile/**/Pods/
+mobile/**/.symlinks/
+mobile/**/Flutter/ephemeral/
+
+# Data / local DBs
+data/raw/
+data/*.db
+data/*.db-shm
+data/*.db-wal
+*.db
+*.db-shm
+*.db-wal
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.iml
