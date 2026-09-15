@@ -14,7 +14,23 @@ function locStr(value: LocalizedString, locale: Locale): string {
   return t(value, locale);
 }
 
-export type ResolvedSection = { heading: string; body: string };
+export type ResolvedSection = {
+  heading: string;
+  body: string;
+  kind?: ChapterSection["kind"];
+  accent?: ChapterSection["accent"];
+  interactive?: boolean;
+  items?: string[];
+  myth?: string;
+  fact?: string;
+  media?: {
+    type: "gif" | "image" | "illustration";
+    src: string;
+    alt: string;
+    caption?: string;
+  };
+};
+
 export type ResolvedQuestion = {
   id: string;
   text: string;
@@ -51,6 +67,22 @@ export function localizeSection(
   return {
     heading: locStr(section.heading, locale),
     body: locStr(section.body, locale),
+    kind: section.kind,
+    accent: section.accent,
+    interactive: section.interactive,
+    items: section.items?.map((item) => locStr(item, locale)),
+    myth: section.myth ? locStr(section.myth, locale) : undefined,
+    fact: section.fact ? locStr(section.fact, locale) : undefined,
+    media: section.media
+      ? {
+          type: section.media.type,
+          src: section.media.src,
+          alt: locStr(section.media.alt, locale),
+          caption: section.media.caption
+            ? locStr(section.media.caption, locale)
+            : undefined,
+        }
+      : undefined,
   };
 }
 
