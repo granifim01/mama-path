@@ -34,10 +34,15 @@ export async function apiFetch<T>(
   if (!response.ok) {
     let message = `API error ${response.status}`;
     try {
-      const payload = await response.json();
-      message = payload.error ?? message;
+      const raw = await response.text();
+      try {
+        const payload = JSON.parse(raw) as { error?: string };
+        message = payload.error ?? message;
+      } catch {
+        message = raw || message;
+      }
     } catch {
-      message = (await response.text()) || message;
+      // keep default message
     }
     throw new Error(message);
   }

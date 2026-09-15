@@ -6,7 +6,7 @@ import type { Hospital, HospitalsPayload } from "./types";
 
 const DATA_PATH = path.join(process.cwd(), "..", "data", "hospitals.json");
 
-function loadHospitalsFromFile(): HospitalsPayload {
+export function loadHospitalsFromFile(): HospitalsPayload {
   const fallback: HospitalsPayload = {
     updated_at: new Date(0).toISOString(),
     count: 0,
