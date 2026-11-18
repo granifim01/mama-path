@@ -4,8 +4,17 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 
 import { useLocale } from "@/components/LocaleProvider";
+import { RichText } from "@/components/RichText";
 import type { ResolvedChapter, ResolvedTrack } from "@/lib/i18n/localize-course";
 import { markChapterComplete } from "@/lib/progress-storage";
+
+const KIND_LABEL: Record<string, string> = {
+  tip: "💡 Совет",
+  warning: "⚠️ Важно",
+  myth: "🔍 Мифы и факты",
+  check: "✅ Чек-лист",
+  story: "💬 Из опыта",
+};
 
 type Props = {
   track: ResolvedTrack;
@@ -77,20 +86,40 @@ export function ChapterView({
         <p>{chapter.summary}</p>
       </header>
 
-      <div className="chapter-sections">
-        {chapter.sections.map((section, index) => (
-          <article
-            className="card section-card animate-in"
-            key={section.heading}
-            style={{ animationDelay: `${index * 80}ms` }}
-          >
-            <h2>{section.heading}</h2>
-            <p>{section.body}</p>
-          </article>
-        ))}
+      <div className="chapter-body">
+        <nav className="chapter-toc card" aria-label="Содержание главы">
+          <p className="eyebrow">В этой главе</p>
+          <ol>
+            {chapter.sections.map((section, index) => (
+              <li key={section.heading}>
+                <a href={`#s-${index + 1}`}>{section.heading}</a>
+              </li>
+            ))}
+            <li>
+              <a href="#quiz">{ui.courses.quizTitle}</a>
+            </li>
+          </ol>
+        </nav>
+
+        <div className="chapter-sections">
+          {chapter.sections.map((section, index) => (
+            <article
+              id={`s-${index + 1}`}
+              className={`card section-card ${section.kind ? `section-card--${section.kind}` : ""}`}
+              key={section.heading}
+            >
+              {section.kind ? (
+                <p className="section-card__kind">{KIND_LABEL[section.kind]}</p>
+              ) : null}
+              <h2>{section.heading}</h2>
+              <RichText text={section.body} />
+            </article>
+          ))}
+          <p className="muted small chapter-disclaimer">{ui.courses.disclaimer} При угрозе жизни звоните 103.</p>
+        </div>
       </div>
 
-      <section className="card quiz-card animate-in" style={{ animationDelay: "200ms" }}>
+      <section id="quiz" className="card quiz-card">
         <h2>{ui.courses.quizTitle}</h2>
         {chapter.quiz.questions.map((question, qIndex) => (
           <div className="quiz-question" key={question.id}>

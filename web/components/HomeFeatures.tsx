@@ -4,53 +4,35 @@ import Link from "next/link";
 
 import { useLocale } from "@/components/LocaleProvider";
 
-const FEATURE_META = [
-  { href: "/courses", color: "#d4567f", icon: "📚", key: "courses" as const },
-  { href: "/hospitals", color: "#2b6dad", icon: "🏥", key: "hospitals" as const },
-  { href: "/products", color: "#2a8a57", icon: "🛍", key: "products" as const },
-  { href: "/help", color: "#c62828", icon: "🆘", key: "help" as const },
-  { href: "/register", color: "#b38b59", icon: "✨", key: "account" as const },
-];
-
 export function HomeFeatures() {
   const { ui } = useLocale();
   const f = ui.home.features;
 
-  const titles: Record<(typeof FEATURE_META)[number]["key"], string> = {
-    courses: f.coursesTitle,
-    hospitals: f.hospitalsTitle,
-    products: f.productsTitle,
-    help: f.helpTitle,
-    account: f.accountTitle,
-  };
-
-  const texts: Record<(typeof FEATURE_META)[number]["key"], string> = {
-    courses: f.coursesText,
-    hospitals: f.hospitalsText,
-    products: f.productsText,
-    help: f.helpText,
-    account: f.accountText,
-  };
+  const FEATURES = [
+    { href: "/courses", tone: "pink", icon: "📚", title: f.coursesTitle, text: f.coursesText },
+    { href: "/tracker", tone: "violet", icon: "🗓", title: "Календарь беременности", text: "Неделя за неделей: размер малыша, самочувствие мамы и совет недели" },
+    { href: "/hospitals", tone: "blue", icon: "🏥", title: f.hospitalsTitle, text: f.hospitalsText },
+    { href: "/checklist", tone: "amber", icon: "🧳", title: "Сумка в роддом", text: "Интерактивный чек-лист: документы, вещи маме и малышу, выписка" },
+    { href: "/products", tone: "green", icon: "🛍", title: f.productsTitle, text: f.productsText },
+    { href: "/help", tone: "red", icon: "🆘", title: f.helpTitle, text: f.helpText },
+  ];
 
   return (
-    <section className="feature-grid">
-      {FEATURE_META.map((feature, index) => (
-        <Link
-          key={feature.href}
-          href={feature.href}
-          className="feature-card card"
-          style={{
-            borderTop: `4px solid ${feature.color}`,
-            animationDelay: `${index * 70}ms`,
-          }}
-        >
-          <span className="feature-card__icon" aria-hidden>
-            {feature.icon}
-          </span>
-          <h2>{titles[feature.key]}</h2>
-          <p className="muted">{texts[feature.key]}</p>
-        </Link>
-      ))}
+    <section className="home-section">
+      <div className="section-head">
+        <p className="page-intro__eyebrow">Разделы</p>
+        <h2>Чем поможет Mama Path</h2>
+      </div>
+      <div className="feature-grid feature-grid--3">
+        {FEATURES.map((feature) => (
+          <Link key={feature.href} href={feature.href} className={`feature-card card tone-${feature.tone}`}>
+            <span className="feature-card__icon" aria-hidden>{feature.icon}</span>
+            <h3>{feature.title}</h3>
+            <p className="muted">{feature.text}</p>
+            <span className="feature-card__more">Открыть →</span>
+          </Link>
+        ))}
+      </div>
     </section>
   );
 }

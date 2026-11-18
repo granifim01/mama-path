@@ -1,17 +1,24 @@
 {
-  "brand": { "title": "Mama Path", "tagline": "для будущих родителей" },
+  "brand": {
+    "title": "Mama Path",
+    "tagline": "для будущих родителей"
+  },
   "nav": {
     "home": "Главная",
+    "tracker": "Календарь",
     "courses": "Курсы",
     "hospitals": "Роддома",
     "products": "Товары",
+    "checklist": "Чек-лист",
     "help": "Помощь",
     "login": "Войти",
     "register": "Регистрация",
     "logout": "Выйти",
     "hello": "Привет, {name}"
   },
-  "lang": { "label": "Язык" },
+  "lang": {
+    "label": "Язык"
+  },
   "home": {
     "eyebrow": "Для родителей в Казахстане",
     "title": "Всё важное — от планирования до первых месяцев с малышом",

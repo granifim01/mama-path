@@ -23,6 +23,11 @@ export function SiteHeader() {
   const LINKS = [
     { href: "/", label: ui.nav.home, match: (path: string) => path === "/" },
     {
+      href: "/tracker",
+      label: ui.nav.tracker,
+      match: (path: string) => path.startsWith("/tracker"),
+    },
+    {
       href: "/courses",
       label: ui.nav.courses,
       match: (path: string) => path.startsWith("/courses"),

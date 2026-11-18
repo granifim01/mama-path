@@ -1,17 +1,24 @@
 {
-  "brand": { "title": "Mama Path", "tagline": "for expectant parents" },
+  "brand": {
+    "title": "Mama Path",
+    "tagline": "for expectant parents"
+  },
   "nav": {
     "home": "Home",
+    "tracker": "Calendar",
     "courses": "Courses",
     "hospitals": "Hospitals",
     "products": "Products",
+    "checklist": "Checklist",
     "help": "Help",
     "login": "Log in",
     "register": "Sign up",
     "logout": "Log out",
     "hello": "Hi, {name}"
   },
-  "lang": { "label": "Language" },
+  "lang": {
+    "label": "Language"
+  },
   "home": {
     "eyebrow": "For parents in Kazakhstan",
     "title": "Everything that matters — from planning to the first months with your baby",

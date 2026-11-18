@@ -18,6 +18,8 @@ export type ProductItem = {
 export type ProductCategory = {
   id: string;
   title: string;
+  icon?: string;
+  description?: string;
   items: ProductItem[];
 };
 

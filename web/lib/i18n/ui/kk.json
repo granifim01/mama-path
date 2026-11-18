@@ -1,17 +1,24 @@
 {
-  "brand": { "title": "Mama Path", "tagline": "болашақ ата-аналарға" },
+  "brand": {
+    "title": "Mama Path",
+    "tagline": "болашақ ата-аналарға"
+  },
   "nav": {
     "home": "Басты бет",
+    "tracker": "Күнтізбе",
     "courses": "Курстар",
     "hospitals": "Босана үйлері",
     "products": "Тауарлар",
+    "checklist": "Тізім",
     "help": "Көмек",
     "login": "Кіру",
     "register": "Тіркелу",
     "logout": "Шығу",
     "hello": "Сәлем, {name}"
   },
-  "lang": { "label": "Тіл" },
+  "lang": {
+    "label": "Тіл"
+  },
   "home": {
     "eyebrow": "Қазақстандағы ата-аналарға",
     "title": "Жоспарлаудан нәрестенің алғашқы айларына дейін — бар маңызды ақпарат",

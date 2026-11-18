@@ -14,7 +14,7 @@ function locStr(value: LocalizedString, locale: Locale): string {
   return t(value, locale);
 }
 
-export type ResolvedSection = { heading: string; body: string };
+export type ResolvedSection = { heading: string; body: string; kind?: ChapterSection["kind"] };
 export type ResolvedQuestion = {
   id: string;
   text: string;
@@ -51,6 +51,7 @@ export function localizeSection(
   return {
     heading: locStr(section.heading, locale),
     body: locStr(section.body, locale),
+    ...(section.kind ? { kind: section.kind } : {}),
   };
 }
 

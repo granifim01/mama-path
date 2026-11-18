@@ -20,6 +20,7 @@
     "db:sync": "npm run db:sync-hospitals && npm run db:sync-catalogs",
     "courses:enrich": "tsx scripts/enrich-courses.ts",
     "courses:i18n": "tsx scripts/build-courses-i18n.ts",
+    "courses:build": "tsx scripts/build-courses-from-md.ts",
     "hospitals:clean": "tsx scripts/clean-hospitals-json.ts",
     "hospitals:remerge": "cd ../scraper && .venv/bin/python remerge.py",
     "scraper:run": "cd ../scraper && .venv/bin/python run.py",

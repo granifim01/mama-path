@@ -12,9 +12,12 @@ export type ChapterQuiz = {
   questions: QuizQuestion[];
 };
 
+export type SectionKind = "tip" | "warning" | "myth" | "check" | "story";
+
 export type ChapterSection = {
   heading: LocalizedString;
   body: LocalizedString;
+  kind?: SectionKind;
 };
 
 export type Chapter = {
